@@ -1,0 +1,79 @@
+.container {
+    display: inline-block;
+    margin: 0 5px 0 0;
+}
+
+.infoBox {
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.icon {
+    color: #ccc;
+}
+
+.infoBox:hover .icon {
+    color: #fff;
+}
+
+.leadsNumberBox {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    background: #f00;
+    font-size: 0.8em;
+}
+
+.leadsNumber {
+    display: block;
+}
+
+.rootDialog {
+    background: rgba(0, 0, 0, 0.8);
+    position: relative;
+}
+
+.iconButton {
+    color: #fff !important;
+    position: absolute !important;
+    top: 6px;
+    right: 0;
+}
+
+.paper {
+    padding: 0;
+    background-color: #333 !important;
+    border: solid 1px #222;
+    width: 100%;
+    position: relative;
+}
+
+.rootDialogTitle {
+    background: rgba(205, 192, 157, 0.6);
+    position: relative;
+    margin: 0 0 10px;
+    padding: 0 !important;
+    color: #fff;
+    overflow: hidden;
+}
+
+.rootDialogTitle h2 {
+    margin: 0;
+    padding: 15px 24px 12px !important;
+    color: #fff;
+    font-weight: 300;
+    font-size: 1.3rem;
+}
+
+.leadsListContainer {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}

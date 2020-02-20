@@ -1,0 +1,168 @@
+.infoText {
+    padding: 40px 0 20px;
+}
+
+.infoText p {
+    color: #afafaf;
+    text-align: justify;
+}
+
+.businesCardPhoto {
+    border: solid 6px #333;
+    text-align: center;
+    padding: 0 0;
+    margin: 0 0 6px 0;
+    -webkit-transition: all 0.25s linear;
+    -moz-transition: all 0.25s linear;
+    -o-transition: all 0.25s linear;
+    -ms-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+    position: relative;
+}
+
+.businesCardPhoto .overPhoto {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    -webkit-transition: all 0.25s linear;
+    -moz-transition: all 0.25s linear;
+    -o-transition: all 0.25s linear;
+    -ms-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+    opacity: 0.1;
+    z-index: 20;
+}
+
+.cameraClose i {
+    display: block;
+}
+
+.businesCardPhoto .overPhoto i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 48px !important;
+    color: #ae9978;
+    cursor: pointer;
+}
+
+.businesCardPhoto:hover {
+    border: solid 6px #ae9978;
+}
+
+.businesCardPhoto:hover .overPhoto {
+    opacity: 1;
+}
+
+.businesCardPhoto .photoProgress {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    -webkit-transition: all 0.25s linear;
+    -moz-transition: all 0.25s linear;
+    -o-transition: all 0.25s linear;
+    -ms-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+    opacity: 1;
+    z-index: 10;
+}
+
+.businesCardPhoto .photoProgress .progressBar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -28px 0 0 -28px;
+    color: #ae9978 !important;
+}
+
+.addPhoto {
+    border: solid 6px #333;
+    text-align: center;
+    padding: 50px 0;
+    cursor: pointer;
+    -webkit-transition: all 0.25s linear;
+    -moz-transition: all 0.25s linear;
+    -o-transition: all 0.25s linear;
+    -ms-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+}
+
+.addPhoto:hover {
+    border: solid 6px #ae9978;
+    background: #111;
+}
+
+.rootDialog {
+    background: rgba(0, 0, 0, 0.8);
+    position: relative;
+}
+
+.IconButton {
+    color: #fff !important;
+    position: absolute !important;
+    top: 2px;
+    right: 0;
+}
+
+.rootDialogActions {
+    background: rgba(0, 0, 0, 0);
+    position: relative;
+    margin: 0 !important;
+    padding: 10px 24px;
+    border-top: solid 1px #444;
+}
+
+.rootDialogContent {
+    padding: 10px !important;
+}
+
+.paper {
+    padding: 0;
+    background-color: #111 !important;
+    border: solid 1px #222;
+    width: 100%;
+    position: relative;
+    overflow-y: visible !important;
+}
+
+.cameraClose {
+    background: #ae9978;
+    padding: 8px;
+    display: block;
+    position: absolute;
+    right: -5px;
+    top: -5px;
+    z-index: 100;
+    cursor: pointer;
+    -webkit-transition: all 0.25s linear;
+    -moz-transition: all 0.25s linear;
+    -o-transition: all 0.25s linear;
+    -ms-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    border-radius: 0%;
+}
+
+.cameraClose:hover {
+    background: #7d5945;
+}
+
+.googleMaoContainer {
+    border: solid 6px #333;
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+
+.googleMapsInfo {
+    font-size: 0.8em;
+}

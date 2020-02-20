@@ -1,0 +1,2695 @@
+# gastronovi GmbH
+# Copyright (C) 2018 gastronovi GmbH
+# This file is distributed under the same license as the PACKAGE package.
+# gastronovi GmbH <developer@gastronovi.de>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: gastronovi GmbH\n"
+"Report-Msgid-Bugs-To: developer@gastronovi.de\n"
+"POT-Creation-Date: 2018-03-01 10:41+0000\n"
+"PO-Revision-Date: 2018-03-01 10:41+0000\n"
+"Last-Translator: Eeecore User <info@gastronovi.de>\n"
+"Language-Team: Eeecore Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+# Admin menu title for Contents
+#: ***Global Eeecore Key***
+# ***de_DE: "Inhalt"***
+#, core
+msgid "globals.Admin.menu.Contents.header"
+msgstr ""
+
+#: Admin menu descriptive tooltip for Contents
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:05:16.0Z
+# ***de_DE: "Seiten, Inhalte, Inhaltstypen und Shopartikel"***
+#, core
+#, autotranslation: {"time":1547726716}
+msgid "globals.Admin.menu.Contents.tooltip"
+msgstr "Pages, content, content types and shop items"
+
+# Admin menu title for Users
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:05:17.0Z
+# ***de_DE: "Benutzer"***
+#, core
+#, autotranslation: {"time":1547726717}
+msgid "globals.Admin.menu.Users.header"
+msgstr "User"
+
+#: Admin menu descriptive tooltip for Users
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:05:17.0Z
+# ***de_DE: "Benutzer und Gruppen"***
+#, core
+#, autotranslation: {"time":1547726717}
+msgid "globals.Admin.menu.Users.tooltip"
+msgstr "Users and Groups"
+
+#: ***Global Eeecore Key***
+# ***de_DE: "Zugriff verweigert. Bitte klicken Sie <a href=\"/\">hier</a> um die Seite neu zu laden und sich ggf. neu anzumelden."***
+#, core
+msgid "globals.Error.privileges.denied"
+msgstr "Access denied. Please click <a href=\"/\">here</a> to reload the page and log in again if necessary."
+
+#: /core/react/GridPanel/v1/components/GridHeader/GridHeader.js
+#: ***Automated Translation*** 2019-05-17T07:28:31.0Z
+# ***de_DE: "Aktionen"***
+#, autotranslation: {"time":1558078111}
+msgid "globals.actions"
+msgstr "actions"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+# ***de_DE: "Adresse suchen ..."***
+msgid "globals.autocomplete.label.searchAddress"
+msgstr "Search address ..."
+
+#: /core/react/GridPanel/v1/containers/GridPanel.js
+#: /core/react/GridPanel/v1/components/GridHeader/GridHeader.js
+#: ***Automated Translation*** 2019-05-17T07:28:32.0Z
+# ***de_DE: "Löschen"***
+#, autotranslation: {"time":1558078112}
+msgid "globals.delete"
+msgstr "Delete"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-01-17T12:05:17.0Z
+# ***de_DE: "Aktiv"***
+#, autotranslation: {"time":1547726717}
+msgid "globals.fields.active.header"
+msgstr "active"
+
+#: ***Automated Translation*** 2019-01-17T12:05:17.0Z
+# ***de_DE: "Verifizierungsschlüssel"***
+#, autotranslation: {"time":1547726717}
+msgid "globals.fields.auth.header"
+msgstr "verification key"
+
+#: ***Automated Translation*** 2019-01-17T12:05:18.0Z
+# ***de_DE: "Klassen"***
+#, autotranslation: {"time":1547726718}
+msgid "globals.fields.class_id.header"
+msgstr "grades"
+
+#: ***Automated Translation*** 2019-01-17T12:05:18.0Z
+# ***de_DE: "Erstellt am"***
+#, autotranslation: {"time":1547726718}
+msgid "globals.fields.created_at.header"
+msgstr "Created on"
+
+#: ***Automated Translation*** 2019-01-17T12:05:18.0Z
+# ***de_DE: "Erstellt von"***
+#, autotranslation: {"time":1547726718}
+msgid "globals.fields.created_by.header"
+msgstr "Created by"
+
+#: ***Automated Translation*** 2019-01-17T12:05:18.0Z
+# ***de_DE: "Erstellzeit"***
+#, autotranslation: {"time":1547726718}
+msgid "globals.fields.ctime.header"
+msgstr "creation time"
+
+#: ***Automated Translation*** 2019-01-17T12:05:19.0Z
+# ***de_DE: "Gelöscht am"***
+#, autotranslation: {"time":1547726719}
+msgid "globals.fields.deleted_at.header"
+msgstr "Deleted on"
+
+#: ***Automated Translation*** 2019-01-17T12:05:19.0Z
+# ***de_DE: "Beschreibung"***
+#, autotranslation: {"time":1547726719}
+msgid "globals.fields.description.header"
+msgstr "Description of the"
+
+#: ***Automated Translation*** 2019-01-17T12:05:19.0Z
+# ***de_DE: "E-Mail"***
+#, autotranslation: {"time":1547726719}
+msgid "globals.fields.email.header"
+msgstr "email"
+
+#: ***Automated Translation*** 2019-01-17T12:05:20.0Z
+# ***de_DE: "Datei"***
+#, autotranslation: {"time":1547726720}
+msgid "globals.fields.file_id.header"
+msgstr "file"
+
+#: ***Automated Translation*** 2019-01-17T12:05:20.0Z
+# ***de_DE: "Vorname"***
+#, autotranslation: {"time":1547726720}
+msgid "globals.fields.firstname.header"
+msgstr "first name"
+
+#: ***Automated Translation*** 2019-01-17T12:05:20.0Z
+# ***de_DE: "Gruppen"***
+#, autotranslation: {"time":1547726720}
+msgid "globals.fields.group_id.header"
+msgstr "groups"
+
+#: ***Automated Translation*** 2019-01-17T12:05:20.0Z
+# ***de_DE: "ID"***
+#, autotranslation: {"time":1547726720}
+msgid "globals.fields.id.header"
+msgstr "ID"
+
+#: ***Automated Translation*** 2019-01-17T12:05:21.0Z
+# ***de_DE: "ID"***
+#, autotranslation: {"time":1547726721}
+msgid "globals.fields.id.tooltip"
+msgstr "ID"
+
+#: ***Automated Translation*** 2019-01-17T12:05:21.0Z
+# ***de_DE: "Schlüsselwörter"***
+#, autotranslation: {"time":1547726721}
+msgid "globals.fields.keywords.header"
+msgstr "key words"
+
+#: ***Automated Translation*** 2019-01-17T12:05:21.0Z
+# ***de_DE: "Nachname"***
+#, autotranslation: {"time":1547726721}
+msgid "globals.fields.lastname.header"
+msgstr "Surname"
+
+#: ***Automated Translation*** 2019-01-17T12:05:22.0Z
+# ***de_DE: "Ebene"***
+#, autotranslation: {"time":1547726722}
+msgid "globals.fields.level.header"
+msgstr "plane"
+
+#: ***Automated Translation*** 2019-01-17T12:05:22.0Z
+# ***de_DE: "Lft"***
+#, autotranslation: {"time":1547726722}
+msgid "globals.fields.lft.header"
+msgstr "lift"
+
+#: ***Automated Translation*** 2019-01-17T12:05:22.0Z
+# ***de_DE: "Name"***
+#, autotranslation: {"time":1547726722}
+msgid "globals.fields.name.header"
+msgstr "name"
+
+#: ***Automated Translation*** 2019-01-17T12:05:22.0Z
+# ***de_DE: "Original"***
+#, autotranslation: {"time":1547726722}
+msgid "globals.fields.original.header"
+msgstr "original"
+
+#: ***Automated Translation*** 2019-01-17T12:05:23.0Z
+# ***de_DE: "Passwort"***
+#, autotranslation: {"time":1547726723}
+msgid "globals.fields.password.header"
+msgstr "password"
+
+#: ***Automated Translation*** 2019-01-17T12:05:23.0Z
+# ***de_DE: "Öffentlich"***
+#, autotranslation: {"time":1547726723}
+msgid "globals.fields.public.header"
+msgstr "Public"
+
+#: ***Automated Translation*** 2019-01-17T12:05:23.0Z
+# ***de_DE: "Rgt"***
+#, autotranslation: {"time":1547726723}
+msgid "globals.fields.rgt.header"
+msgstr "Rgt"
+
+#: ***Automated Translation*** 2019-01-17T12:05:23.0Z
+# ***de_DE: "Größe"***
+#, autotranslation: {"time":1547726723}
+msgid "globals.fields.size.header"
+msgstr "Size"
+
+#: ***Automated Translation*** 2019-01-17T12:05:24.0Z
+# ***de_DE: "Slug"***
+#, autotranslation: {"time":1547726724}
+msgid "globals.fields.slug.header"
+msgstr "slug"
+
+#: ***Automated Translation*** 2019-01-17T12:05:24.0Z
+# ***de_DE: "Status"***
+#, autotranslation: {"time":1547726724}
+msgid "globals.fields.status.header"
+msgstr "status"
+
+#: ***Automated Translation*** 2019-01-17T12:05:24.0Z
+# ***de_DE: "Titel"***
+#, autotranslation: {"time":1547726724}
+msgid "globals.fields.title.header"
+msgstr "title"
+
+#: ***Automated Translation*** 2019-01-17T12:05:24.0Z
+# ***de_DE: "Titel"***
+#, autotranslation: {"time":1547726724}
+msgid "globals.fields.title.tooltip"
+msgstr "title"
+
+#: ***Automated Translation*** 2019-01-17T12:05:25.0Z
+# ***de_DE: "Art"***
+#, autotranslation: {"time":1547726725}
+msgid "globals.fields.type.header"
+msgstr "manner"
+
+#: ***Automated Translation*** 2019-01-17T12:05:25.0Z
+# ***de_DE: "Aktualisiert am"***
+#, autotranslation: {"time":1547726725}
+msgid "globals.fields.updated_at.header"
+msgstr "Updated"
+
+#: ***Automated Translation*** 2019-01-17T12:05:25.0Z
+# ***de_DE: "Aktualisiert von"***
+#, autotranslation: {"time":1547726725}
+msgid "globals.fields.updated_by.header"
+msgstr "Updated from"
+
+#: ***Automated Translation*** 2019-01-17T12:05:26.0Z
+# ***de_DE: "Benutzername"***
+#, autotranslation: {"time":1547726726}
+msgid "globals.fields.username.header"
+msgstr "username"
+
+#: ***Automated Translation*** 2019-01-17T12:05:26.0Z
+# ***de_DE: "Bestätigt"***
+#, autotranslation: {"time":1547726726}
+msgid "globals.fields.verified.header"
+msgstr "Confirmed"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+# ***de_DE: "Die Adresse kann auf der Karte nicht gefunden werden."***
+msgid "globals.googlemaps.cantFindAddress"
+msgstr "Can't find marker on map"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Can't find address to"***
+msgid "globals.googlemaps.cantFindAddressTo"
+msgstr "Can't find address to"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+# ***de_DE: "Klicken Sie auf die Karte, um eine Markierung hinzuzufügen"***
+msgid "globals.googlemaps.clickMapToAddMarker"
+msgstr "Click on the map to add a marker"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/NewLeadForm/NewLead.js
+# ***de_DE: "Klicken Sie auf eine unnötige Markierung, um sie zu entfernen"***
+msgid "globals.googlemaps.clickMarkerToRemove"
+msgstr "Klicken Sie auf eine unnötige Markierung, um sie zu entfernen"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/NewLeadForm/NewLead.js
+# ***de_DE: "Ziehen Sie die Markierung an die richtige Position und legen Sie sie dort ab"***
+msgid "globals.googlemaps.dragAndDropMarker"
+msgstr "Ziehen Sie die Markierung an die richtige Position und legen Sie sie dort ab"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Find markers"***
+msgid "globals.googlemaps.findMarkers"
+msgstr "Find markers"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Found markers"***
+msgid "globals.googlemaps.foundMarkers"
+msgstr "Found markers"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Kontakte sind auf der Karte nicht sichtbar"***
+msgid "globals.googlemaps.info.contactNotOnMap"
+msgstr "contact are not show on map"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Kontakte werden auf der Karte nicht angezeigt"***
+msgid "globals.googlemaps.info.contactsNotOnMap"
+msgstr "contacts are not show on map"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+# ***de_DE: "Karte"***
+msgid "globals.googlemaps.lead.infoTitle"
+msgstr "Map"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Lead without markers"***
+msgid "globals.googlemaps.leadWithoutMarkers"
+msgstr "Lead without markers"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Karteninformation"***
+msgid "globals.googlemaps.mapInformation"
+msgstr "Map information"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Markierungen auf der Karte"***
+msgid "globals.googlemaps.markersOnMap"
+msgstr "Markers on map"
+
+#: /react/containers/NewLeadForm/NewLead.js
+# ***de_DE: "Keine Anzeige auf der Karte möglich, die angegebene Adresse konnte nicht gefunden werden. Sie können die Markierung manuell hinzufügen, indem Sie auf die Karte klicken."***
+msgid "globals.googlemaps.noAddressFind"
+msgstr "No display on the map possible, the specified address could not be found. You can add marker manually by click on map."
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Save markers"***
+msgid "globals.googlemaps.saveMarkers"
+msgstr "Save markers"
+
+#: /core/react/GridPanel/v1/components/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-05-17T07:28:32.0Z
+# ***de_DE: "Änderungen zurücksetzen"***
+#, autotranslation: {"time":1558078112}
+msgid "globals.grid.changes.reset"
+msgstr "Reset changes"
+
+#: /core/react/GridPanel/v1/components/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-05-17T07:28:32.0Z
+# ***de_DE: "Änderungen speichern"***
+#, autotranslation: {"time":1558078112}
+msgid "globals.grid.changes.save"
+msgstr "Save changes"
+
+#: /core/react/GridPanel/v1/containers/GridPanel.js
+#: ***Automated Translation*** 2019-05-17T07:28:33.0Z
+# ***de_DE: "Löschen bestätigen"***
+#, autotranslation: {"time":1558078113}
+msgid "globals.grid.delete.description"
+msgstr "Confirm Delete"
+
+#: /core/react/GridPanel/v1/containers/GridPanel.js
+#: ***Automated Translation*** 2019-05-17T07:28:33.0Z
+# ***de_DE: "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten?"***
+#, autotranslation: {"time":1558078113}
+msgid "globals.grid.delete.title"
+msgstr "Are you sure you want to delete this entry?"
+
+#: /react/containers/Grid/GridPanel.js
+#: ***Automated Translation*** 2019-01-17T12:05:26.0Z
+# ***de_DE: "Herunterladen"***
+#, autotranslation: {"time":1547726726}
+msgid "globals.grid.download.button"
+msgstr "download"
+
+#: /react/containers/Grid/GridPanel.js
+#: ***Automated Translation*** 2019-01-17T12:05:26.0Z
+# ***de_DE: "Datei wird erstellt..."***
+#, autotranslation: {"time":1547726726}
+msgid "globals.grid.download.processing"
+msgstr "File is being created..."
+
+#: /react/containers/Grid/GridPanel.js
+#: ***Automated Translation*** 2019-01-17T12:05:27.0Z
+# ***de_DE: "Datei erfolgreich erstellt."***
+#, autotranslation: {"time":1547726727}
+msgid "globals.grid.download.success"
+msgstr "File successfully created."
+
+#: /react/containers/Grid/GridPanel.js
+#: ***Automated Translation*** 2019-01-17T12:05:27.0Z
+# ***de_DE: "Datei herunterladen"***
+#, autotranslation: {"time":1547726727}
+msgid "globals.grid.download.title"
+msgstr "Download file"
+
+#: /react/containers/Grid/GridPanel.js
+#: ***Automated Translation*** 2019-01-17T12:05:29.0Z
+# ***de_DE: "[_1|_1]-[_2|_2] von [_3|_3]"***
+#, autotranslation: {"time":1547726729}
+msgid "globals.grid.pagination.displayedrows.title"
+msgstr "[_1|_1]-[_2|_2] from [_3|_3]"
+
+#: /react/containers/Grid/GridPagination/GridPagination.js
+#: ***Automated Translation*** 2019-01-17T12:05:29.0Z
+# ***de_DE: "Erste Seite"***
+#, autotranslation: {"time":1547726729}
+msgid "globals.grid.pagination.firstpage.title"
+msgstr "First page"
+
+#: /react/containers/Grid/GridPagination/GridPagination.js
+#: ***Automated Translation*** 2019-01-17T12:05:29.0Z
+# ***de_DE: "Vorherige Seite"***
+#, autotranslation: {"time":1547726729}
+msgid "globals.grid.pagination.lastpage.title"
+msgstr "Previous page"
+
+#: /react/containers/Grid/GridPagination/GridPagination.js
+#: ***Automated Translation*** 2019-01-17T12:05:29.0Z
+# ***de_DE: "Nächste Seite"***
+#, autotranslation: {"time":1547726729}
+msgid "globals.grid.pagination.nextpage.title"
+msgstr "Next page"
+
+#: /react/containers/Grid/GridPagination/GridPagination.js
+#: ***Automated Translation*** 2019-01-17T12:05:30.0Z
+# ***de_DE: "Letzte Seite"***
+#, autotranslation: {"time":1547726730}
+msgid "globals.grid.pagination.prevpage.title"
+msgstr "Last page"
+
+#: /react/containers/Grid/GridPanel.js
+#: ***Automated Translation*** 2019-01-17T12:05:30.0Z
+# ***de_DE: "Einträge pro Seite:"***
+#, autotranslation: {"time":1547726730}
+msgid "globals.grid.pagination.rowsperpage.title"
+msgstr "Entries per page:"
+
+#: /core/react/GridPanel/v1/components/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-01-17T12:05:30.0Z
+# ***de_DE: "Suche"***
+#, autotranslation: {"time":1547726730}
+msgid "globals.grid.search.placeholder"
+msgstr "Search"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-01-17T12:05:31.0Z
+# ***de_DE: "CSV herunterladen"***
+#, autotranslation: {"time":1547726731}
+msgid "globals.grid.toolbar.download.csv.tooltip"
+msgstr "Download CSV"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-01-17T12:05:31.0Z
+# ***de_DE: "Aktualisieren"***
+#, autotranslation: {"time":1547726731}
+msgid "globals.grid.toolbar.download.refresh.tooltip"
+msgstr "Update"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-01-17T12:05:31.0Z
+# ***de_DE: "Erneut senden"***
+#, autotranslation: {"time":1547726731}
+msgid "globals.grid.toolbar.download.resend.title"
+msgstr "Send again"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-01-17T12:05:31.0Z
+# ***de_DE: "Ausgewählte Einträge erneut senden"***
+#, autotranslation: {"time":1547726731}
+msgid "globals.grid.toolbar.download.resend.tooltip"
+msgstr "Resend selected entries"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-01-17T12:05:32.0Z
+# ***de_DE: "Werte zurücksetzen"***
+#, autotranslation: {"time":1547726732}
+msgid "globals.grid.toolbar.download.reset.tooltip"
+msgstr "Reset values"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-01-17T12:05:32.0Z
+# ***de_DE: "Änderungen speichern"***
+#, autotranslation: {"time":1547726732}
+msgid "globals.grid.toolbar.download.save.tooltip"
+msgstr "Save changes"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+# ***de_DE: "Auf der Karte anzeigen"***
+msgid "globals.grid.toolbar.showOnMap.tooltip"
+msgstr "Show on map"
+
+#: Language translation for english
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:05:32.0Z
+# ***de_DE: "Englisch"***
+#, autotranslation: {"time":1547726732}
+#, core
+msgid "globals.languages.english"
+msgstr "English, German"
+
+#: Language translation for french
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:05:33.0Z
+# ***de_DE: "Französisch"***
+#, autotranslation: {"time":1547726733}
+#, core
+msgid "globals.languages.french"
+msgstr "French"
+
+#: Language translation for german
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:05:33.0Z
+# ***de_DE: "Deutsch"***
+#, autotranslation: {"time":1547726733}
+#, core
+msgid "globals.languages.german"
+msgstr "German"
+
+#: Language translation for italian
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:05:33.0Z
+# ***de_DE: "Italienisch"***
+#, autotranslation: {"time":1547726733}
+#, core
+msgid "globals.languages.italian"
+msgstr "Italian"
+
+#: /core/react/GridPanel/v1/components/GridToolbar/GridToolbar.js
+#: ***Automated Translation*** 2019-05-17T07:28:33.0Z
+# ***de_DE: "Ausgewählt"***
+#, autotranslation: {"time":1558078113}
+msgid "globals.selected"
+msgstr "Selected"
+
+#: /react/components/ShowInfoHeader/ShowInfoHeader.js
+# ***de_DE: "Dieser Lead wird erfasst für:"***
+msgid "globals.showinfoheader.campaignInfoTitle"
+msgstr "This lead is recorded for:"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-12-18T09:03:50.0Z
+# ***de_DE: "Die Daten sind nicht vollständig."***
+#, autotranslation: {"time":1576659830}
+msgid "locals.affiliate.widget.incompletevalues"
+msgstr "The data is not complete."
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-12-18T09:03:51.0Z
+# ***de_DE: "Kundennummer nicht gefunden"***
+#, autotranslation: {"time":1576659831}
+msgid "locals.affiliate.widget.notfound"
+msgstr "Customer number not found"
+
+#: /react/store/sagas/contents.js
+#: /react/store/sagas/googleMaps.js
+#: /react/store/sagas/lead.js
+#: /react/store/sagas/newLead.js
+#: /react/store/sagas/ocr.js
+#: /react/store/sagas/settings.js
+#: /react/store/sagas/users.js
+#: ***Automated Translation*** 2019-01-17T12:05:33.0Z
+# ***de_DE: "Verbindungsfehler"***
+#, autotranslation: {"time":1547726733}
+msgid "locals.connecting.error"
+msgstr "connection errors"
+
+#: /react/components/ContentBox/ContentBox.js
+#: ***Automated Translation*** 2019-01-17T12:05:34.0Z
+# ***de_DE: "PDF wird geladen..."***
+#, autotranslation: {"time":1547726734}
+msgid "locals.content.loadpdf"
+msgstr "PDF is being loaded..."
+
+#: /react/components/ContentMoreRenderer/ContentMoreRenderer.js
+#: /react/components/InfoRenderer/InfoRenderer.js
+#: ***Automated Translation*** 2019-01-17T12:05:34.0Z
+# ***de_DE: "Vollbild anzeigen"***
+#, autotranslation: {"time":1547726734}
+msgid "locals.content.moreinfo"
+msgstr "Show full screen"
+
+#: /react/components/ContentBox/ContentBox.js
+#: ***Automated Translation*** 2019-01-17T12:05:34.0Z
+# ***de_DE: "Weiter"***
+#, autotranslation: {"time":1547726734}
+msgid "locals.content.next"
+msgstr "More"
+
+#: /react/components/ContentBox/ContentBox.js
+#: ***Automated Translation*** 2019-01-17T12:05:35.0Z
+# ***de_DE: "Zurück"***
+#, autotranslation: {"time":1547726735}
+msgid "locals.content.prev"
+msgstr "Back"
+
+#: /react/containers/ContentPage/ContentPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:35.0Z
+# ***de_DE: "Meine Inhalte"***
+#, autotranslation: {"time":1547726735}
+msgid "locals.content.title.contents"
+msgstr "My contents"
+
+#: /react/containers/ContentPage/ContentPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:35.0Z
+# ***de_DE: "Präsentationsmaterial zu gastronovi Office"***
+#, autotranslation: {"time":1547726735}
+msgid "locals.content.titlesmall"
+msgstr "Presentation material for gastronovi Office"
+
+#: /react/components/Dashboard/Dashboard.js
+#: ***Automated Translation*** 2019-01-17T12:05:36.0Z
+# ***de_DE: "Lead aufnehmen"***
+#, autotranslation: {"time":1547726736}
+msgid "locals.dashboard.menu.addlead"
+msgstr "Record Lead"
+
+#: /react/components/Dashboard/Dashboard.js
+#: ***Automated Translation*** 2019-01-17T12:05:36.0Z
+# ***de_DE: "Alle Leads"***
+#, autotranslation: {"time":1547726736}
+msgid "locals.dashboard.menu.allleads"
+msgstr "All Leads"
+
+#: /react/components/Dashboard/Dashboard.js
+#: ***Automated Translation*** 2019-01-17T12:05:36.0Z
+# ***de_DE: "Übersicht"***
+#, autotranslation: {"time":1547726736}
+msgid "locals.dashboard.menu.home"
+msgstr "Overview of the"
+
+#: /react/components/Dashboard/Dashboard.js
+#: ***Automated Translation*** 2019-01-17T12:05:36.0Z
+# ***de_DE: "Abmelden"***
+#, autotranslation: {"time":1547726736}
+msgid "locals.dashboard.menu.logout"
+msgstr "Log out"
+
+#: /react/components/Dashboard/Dashboard.js
+#: ***Automated Translation*** 2019-01-17T12:05:37.0Z
+# ***de_DE: "Meine Leads"***
+#, autotranslation: {"time":1547726737}
+msgid "locals.dashboard.menu.myleads"
+msgstr "My Leads"
+
+#: /react/components/Dashboard/Dashboard.js
+#: ***Automated Translation*** 2019-01-17T12:05:37.0Z
+# ***de_DE: "Benutzer"***
+#, autotranslation: {"time":1547726737}
+msgid "locals.dashboard.menu.youraccount"
+msgstr "User"
+
+#: /react/components/Dashboard/Dashboard.js
+#: ***Automated Translation*** 2019-01-17T12:05:37.0Z
+# ***de_DE: "Meine Inhalte"***
+#, autotranslation: {"time":1547726737}
+msgid "locals.dashboard.menu.yourcontents"
+msgstr "My contents"
+
+#: /app/modules/default/controllers/IndexController.php
+# ***de_DE: "Hallo Welt, [_1|_1]!"***
+msgid "locals.helloworld.text"
+msgstr "Hello world, [_1|_1]!"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: ***Automated Translation*** 2019-01-17T12:05:37.0Z
+# ***de_DE: "Stadt"***
+#, autotranslation: {"time":1547726737}
+msgid "locals.leadpage.tablecolumn.city"
+msgstr "town"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:38.0Z
+# ***de_DE: "Betriebsname"***
+#, autotranslation: {"time":1547726738}
+msgid "locals.leadpage.tablecolumn.company"
+msgstr "company name"
+
+#: /react/containers/ContentPage/ContentPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:38.0Z
+# ***de_DE: "Bezeichnung"***
+#, autotranslation: {"time":1547726738}
+msgid "locals.leadpage.tablecolumn.contentname"
+msgstr "designation"
+
+#: /react/containers/ContentPage/ContentPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:38.0Z
+# ***de_DE: "Art"***
+#, autotranslation: {"time":1547726738}
+msgid "locals.leadpage.tablecolumn.contenttype"
+msgstr "manner"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: ***Automated Translation*** 2019-01-17T12:05:38.0Z
+# ***de_DE: "Land"***
+#, autotranslation: {"time":1547726738}
+msgid "locals.leadpage.tablecolumn.country"
+msgstr "country"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:39.0Z
+# ***de_DE: "Erstellt am"***
+#, autotranslation: {"time":1547726739}
+msgid "locals.leadpage.tablecolumn.createdate"
+msgstr "Created on"
+
+#: /react/containers/ContentPage/ContentPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:39.0Z
+# ***de_DE: "Download"***
+#, autotranslation: {"time":1547726739}
+msgid "locals.leadpage.tablecolumn.download"
+msgstr "download"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:39.0Z
+# ***de_DE: "E-Mail"***
+#, autotranslation: {"time":1547726739}
+msgid "locals.leadpage.tablecolumn.email"
+msgstr "email"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: ***Automated Translation*** 2019-01-17T12:05:40.0Z
+# ***de_DE: "Ablehnungsgrund"***
+#, autotranslation: {"time":1547726740}
+msgid "locals.leadpage.tablecolumn.lostreason"
+msgstr "reason for refusal"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:40.0Z
+# ***de_DE: "Ansprechpartner"***
+#, autotranslation: {"time":1547726740}
+msgid "locals.leadpage.tablecolumn.name"
+msgstr "Contact for"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:40.0Z
+# ***de_DE: "Telefon"***
+#, autotranslation: {"time":1547726740}
+msgid "locals.leadpage.tablecolumn.phone"
+msgstr "Phone"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:40.0Z
+# ***de_DE: "Empfohlen durch"***
+#, autotranslation: {"time":1547726740}
+msgid "locals.leadpage.tablecolumn.recommended"
+msgstr "Recommended by"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:41.0Z
+# ***de_DE: "Vertriebler"***
+#, autotranslation: {"time":1547726741}
+msgid "locals.leadpage.tablecolumn.salesman"
+msgstr "sales representative"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: ***Automated Translation*** 2019-01-17T12:05:41.0Z
+# ***de_DE: "E-Mail des Vertrieblers"***
+#, autotranslation: {"time":1547726741}
+msgid "locals.leadpage.tablecolumn.salesmanEmail"
+msgstr "E-Mail of the distributor"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:41.0Z
+# ***de_DE: "Stufe"***
+#, autotranslation: {"time":1547726741}
+msgid "locals.leadpage.tablecolumn.stage"
+msgstr "tier"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: ***Automated Translation*** 2019-01-17T12:05:42.0Z
+# ***de_DE: "Straße"***
+#, autotranslation: {"time":1547726742}
+msgid "locals.leadpage.tablecolumn.street"
+msgstr "street"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: ***Automated Translation*** 2019-01-17T12:05:42.0Z
+# ***de_DE: "PLZ"***
+#, autotranslation: {"time":1547726742}
+msgid "locals.leadpage.tablecolumn.zip"
+msgstr "POSTCODE"
+
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:42.0Z
+# ***de_DE: "Alle Leads"***
+#, autotranslation: {"time":1547726742}
+msgid "locals.leadpage.title.allleads"
+msgstr "All Leads"
+
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:42.0Z
+# ***de_DE: "Meine Leads"***
+#, autotranslation: {"time":1547726742}
+msgid "locals.leadpage.title.myleads"
+msgstr "My Leads"
+
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:43.0Z
+# ***de_DE: "Übersicht über alle Leads"***
+#, autotranslation: {"time":1547726743}
+msgid "locals.leadpage.titlesmall.allleadslist"
+msgstr "Overview of all leads"
+
+#: /react/containers/MyLeadPage/MyLeadPage.js
+#: ***Automated Translation*** 2019-01-17T12:05:43.0Z
+# ***de_DE: "Übersicht über meine Leads"***
+#, autotranslation: {"time":1547726743}
+msgid "locals.leadpage.titlesmall.yourleadslist"
+msgstr "Overview of my leads"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-01-17T12:05:43.0Z
+# ***de_DE: "Das Eintragen ist fehlgeschlagen."***
+#, autotranslation: {"time":1547726743}
+msgid "locals.leads.insert.error"
+msgstr "The entry failed."
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-01-17T12:05:44.0Z
+# ***de_DE: "Die Daten sind nicht vollständig."***
+#, autotranslation: {"time":1547726744}
+msgid "locals.leads.insert.incompletevalues"
+msgstr "The data is not complete."
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.save.success"
+msgstr "Lead saved successfully."
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.take.error"
+msgstr "Lead taking failed."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:44.0Z
+# ***de_DE: "Ihr Browser wird leider nicht unterstützt. Bitte nutzen Sie einen aktuelleren Browser, um auf das Formular zuzugreifen, oder melden Sie sich direkt oder per <a href=\"mailto:sales@gastronovi.com\">E-Mail</a> bei uns."***
+#, autotranslation: {"time":1547726744}
+msgid "locals.leads.widget.browser.notcompatible"
+msgstr "Your browser is not supported. Please use a more recent browser to access the form, or contact us directly or by <a href=\"mailto:sales@gastronovi.com\">E-Mail</a>."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:23.0Z
+# ***de_DE: "Zurück"***
+#, autotranslation: {"time":1557143543}
+msgid "locals.leads.widget.button.back.text"
+msgstr "Back"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:45.0Z
+# ***de_DE: "Absenden"***
+#, autotranslation: {"time":1547726745}
+msgid "locals.leads.widget.button.submit.text"
+msgstr "despatch"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:45.0Z
+# ***de_DE: "Stadt"***
+#, autotranslation: {"time":1547726745}
+msgid "locals.leads.widget.field.city.label"
+msgstr "town"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:45.0Z
+# ***de_DE: "Name"***
+#, autotranslation: {"time":1547726745}
+msgid "locals.leads.widget.field.contact.label"
+msgstr "name"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:46.0Z
+# ***de_DE: "Ansprechpartner"***
+#, autotranslation: {"time":1547726746}
+msgid "locals.leads.widget.field.contact_name.label"
+msgstr "Contact for"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:46.0Z
+# ***de_DE: "Land"***
+#, autotranslation: {"time":1547726746}
+msgid "locals.leads.widget.field.country_id.label"
+msgstr "country"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:24.0Z
+# ***de_DE: "E-Mail des Erfassers"***
+#, autotranslation: {"time":1557143544}
+msgid "locals.leads.widget.field.creator_email.label"
+msgstr "E-mail of the creator"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:24.0Z
+# ***de_DE: "Name des Erfassers"***
+#, autotranslation: {"time":1557143544}
+msgid "locals.leads.widget.field.creator_name.label"
+msgstr "Name of the creator"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:46.0Z
+# ***de_DE: "Nachricht"***
+#, autotranslation: {"time":1547726746}
+msgid "locals.leads.widget.field.description.label"
+msgstr "message"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:46.0Z
+# ***de_DE: "E-Mail"***
+#, autotranslation: {"time":1547726746}
+msgid "locals.leads.widget.field.email_from.label"
+msgstr "email"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:47.0Z
+# ***de_DE: "E-Mail wiederholen"***
+#, autotranslation: {"time":1547726747}
+msgid "locals.leads.widget.field.email_from_check.label"
+msgstr "Repeat e-mail"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:47.0Z
+# ***de_DE: "Die Bestätigung der E-Mail-Adresse muss mit der eingegebenen E-Mail-Adresse übereinstimmen"***
+#, autotranslation: {"time":1547726747}
+msgid "locals.leads.widget.field.email_from_check.validation"
+msgstr "The confirmation of the e-mail address must match the entered e-mail address."
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:47.0Z
+# ***de_DE: "Anrede"***
+#, autotranslation: {"time":1547726747}
+msgid "locals.leads.widget.field.gender.label"
+msgstr "salutation"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:48.0Z
+# ***de_DE: "Frau"***
+#, autotranslation: {"time":1547726748}
+msgid "locals.leads.widget.field.gender.miss"
+msgstr "woman"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:48.0Z
+# ***de_DE: "Herr"***
+#, autotranslation: {"time":1547726748}
+msgid "locals.leads.widget.field.gender.mister"
+msgstr "master"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-01-17T12:05:48.0Z
+# ***de_DE: "Tracking"***
+#, autotranslation: {"time":1547726748}
+msgid "locals.leads.widget.field.gn_analytics_tracking.label"
+msgstr "tracking"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:49.0Z
+# ***de_DE: "Einstufung"***
+#, autotranslation: {"time":1547726749}
+msgid "locals.leads.widget.field.gn_classification.label"
+msgstr "grading"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:49.0Z
+# ***de_DE: "Art des Betriebs"***
+#, autotranslation: {"time":1547726749}
+msgid "locals.leads.widget.field.gn_company_type.label"
+msgstr "Type of business"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:49.0Z
+# ***de_DE: "Sprache"***
+#, autotranslation: {"time":1547726749}
+msgid "locals.leads.widget.field.gn_demo_language.label"
+msgstr "Language"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:49.0Z
+# ***de_DE: "Bereich"***
+#, autotranslation: {"time":1547726749}
+msgid "locals.leads.widget.field.gn_department.label"
+msgstr "range"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:24.0Z
+# ***de_DE: "Zuständigkeit"***
+#, autotranslation: {"time":1557143544}
+msgid "locals.leads.widget.field.gn_division_id.label"
+msgstr "Jurisdiction"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:50.0Z
+# ***de_DE: "Modul"***
+#, autotranslation: {"time":1547726750}
+msgid "locals.leads.widget.field.gn_mod.label"
+msgstr "module"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:50.0Z
+# ***de_DE: "Kalkulation"***
+#, autotranslation: {"time":1547726750}
+msgid "locals.leads.widget.field.gn_mod_calculation.label"
+msgstr "calculation"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-01-17T12:05:50.0Z
+# ***de_DE: "Kampagnenprodukt"***
+#, autotranslation: {"time":1547726750}
+msgid "locals.leads.widget.field.gn_mod_campaign.label"
+msgstr "campaign product"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-05-06T11:52:24.0Z
+# ***de_DE: "Gewähltes Paket"***
+#, autotranslation: {"time":1557143544}
+msgid "locals.leads.widget.field.gn_mod_campaign_monthly.label"
+msgstr "Selected package"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:50.0Z
+# ***de_DE: "Kassenbuch"***
+#, autotranslation: {"time":1547726750}
+msgid "locals.leads.widget.field.gn_mod_cashbook.label"
+msgstr "cash book"
+
+#: ***Obsolete Key***
+#: ***Automated Translation*** 2019-01-17T12:05:51.0Z
+# ***de_DE: "Kundenkartei"***
+#, obsolete
+#, autotranslation: {"time":1547726751}
+msgid "locals.leads.widget.field.gn_mod_customer.label"
+msgstr "customer file"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:51.0Z
+# ***de_DE: "Franchise"***
+#, autotranslation: {"time":1547726751}
+msgid "locals.leads.widget.field.gn_mod_franchise.label"
+msgstr "franchise"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:51.0Z
+# ***de_DE: "Homepage"***
+#, autotranslation: {"time":1547726751}
+msgid "locals.leads.widget.field.gn_mod_homepage.label"
+msgstr "homepage"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:51.0Z
+# ***de_DE: "Kundenbindung"***
+#, autotranslation: {"time":1547726751}
+msgid "locals.leads.widget.field.gn_mod_loyalty.label"
+msgstr "customer loyalty"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:52.0Z
+# ***de_DE: "Marketing"***
+#, autotranslation: {"time":1547726752}
+msgid "locals.leads.widget.field.gn_mod_marketing.label"
+msgstr "marketing"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:52.0Z
+# ***de_DE: "Speisekarten"***
+#, autotranslation: {"time":1547726752}
+msgid "locals.leads.widget.field.gn_mod_menu.label"
+msgstr "menus"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:52.0Z
+# ***de_DE: "Newsletter"***
+#, autotranslation: {"time":1547726752}
+msgid "locals.leads.widget.field.gn_mod_newsletter.label"
+msgstr "Newsletter"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:53.0Z
+# ***de_DE: "Bestellsystem"***
+#, autotranslation: {"time":1547726753}
+msgid "locals.leads.widget.field.gn_mod_order.label"
+msgstr "ordering system"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:53.0Z
+# ***de_DE: "Kassensystem"***
+#, autotranslation: {"time":1547726753}
+msgid "locals.leads.widget.field.gn_mod_pos.label"
+msgstr "cash register system"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:53.0Z
+# ***de_DE: "Präsentation"***
+#, autotranslation: {"time":1547726753}
+msgid "locals.leads.widget.field.gn_mod_presentation.label"
+msgstr "presentation"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:53.0Z
+# ***de_DE: "Einkaufssystem"***
+#, autotranslation: {"time":1547726753}
+msgid "locals.leads.widget.field.gn_mod_purchase.label"
+msgstr "purchasing system"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:54.0Z
+# ***de_DE: "Tischreservierung"***
+#, autotranslation: {"time":1547726754}
+msgid "locals.leads.widget.field.gn_mod_reservation.label"
+msgstr "table reservation"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:54.0Z
+# ***de_DE: "Cockpit"***
+#, autotranslation: {"time":1547726754}
+msgid "locals.leads.widget.field.gn_mod_statistics.label"
+msgstr "cockpit"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:54.0Z
+# ***de_DE: "Warenwirtschaft"***
+#, autotranslation: {"time":1547726754}
+msgid "locals.leads.widget.field.gn_mod_stock.label"
+msgstr "merchandise management"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:55.0Z
+# ***de_DE: "Zeiterfassung"***
+#, autotranslation: {"time":1547726755}
+msgid "locals.leads.widget.field.gn_mod_timetracking.label"
+msgstr "time recording"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:25.0Z
+# ***de_DE: "Interne Referenz"***
+#, autotranslation: {"time":1557143545}
+msgid "locals.leads.widget.field.gn_partner_internal_reference.label"
+msgstr "Internal reference"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:55.0Z
+# ***de_DE: "Schnittstellen"***
+#, autotranslation: {"time":1547726755}
+msgid "locals.leads.widget.field.gn_type_integration.label"
+msgstr "interfaces"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:55.0Z
+# ***de_DE: "Sonstiges"***
+#, autotranslation: {"time":1547726755}
+msgid "locals.leads.widget.field.misc.label"
+msgstr "Other"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:55.0Z
+# ***de_DE: "Betriebsname"***
+#, autotranslation: {"time":1547726755}
+msgid "locals.leads.widget.field.name.label"
+msgstr "company name"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:56.0Z
+# ***de_DE: "Telefon"***
+#, autotranslation: {"time":1547726756}
+msgid "locals.leads.widget.field.phone.label"
+msgstr "Phone"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:57.0Z
+# ***de_DE: "Ich habe die <a href=\"PRIVACY_URL\" target=\"_blank\">Bestimmungen zum Datenschutz</a> gelesen und akzeptiert."***
+#, autotranslation: {"time":1547726757}
+msgid "locals.leads.widget.field.privacy.description"
+msgstr "I have read and accepted the <a href=\"PRIVACY_URL\" target=\"_blank\">Privacy policy</a>."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:57.0Z
+# ***de_DE: "Datenschutzbestimmungen akzeptiert"***
+#, autotranslation: {"time":1547726757}
+msgid "locals.leads.widget.field.privacy.label"
+msgstr "Privacy policy accepted"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:57.0Z
+# ***de_DE: "Kundennummer"***
+#, autotranslation: {"time":1547726757}
+msgid "locals.leads.widget.field.ref.label"
+msgstr "customer number"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:25.0Z
+# ***de_DE: "Straße und Hausnummer"***
+#, autotranslation: {"time":1557143545}
+msgid "locals.leads.widget.field.street.label"
+msgstr "Street and house number"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:57.0Z
+# ***de_DE: "Betreff"***
+#, autotranslation: {"time":1547726757}
+msgid "locals.leads.widget.field.subject.label"
+msgstr "subject"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:26.0Z
+# ***de_DE: "Ich habe die <a href=\"TERMS_URL\" target=\"_blank\">Nutzungsbedingungen</a> gelesen und akzeptiert."***
+#, autotranslation: {"time":1557143546}
+msgid "locals.leads.widget.field.terms.description"
+msgstr "I have read and accepted the <a href=\"TERMS_URL\" target=\"_blank\">Terms of Use</a>."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:26.0Z
+# ***de_DE: "Nutzungsbedingungen akzeptiert"***
+#, autotranslation: {"time":1557143546}
+msgid "locals.leads.widget.field.terms.label"
+msgstr "Terms of use accepted"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:58.0Z
+# ***de_DE: "PLZ"***
+#, autotranslation: {"time":1547726758}
+msgid "locals.leads.widget.field.zip.label"
+msgstr "POSTCODE"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-12-18T09:03:51.0Z
+# ***de_DE: "Suchen"***
+#, autotranslation: {"time":1576659831}
+msgid "locals.leads.widget.fieldset.affiliate_general.button"
+msgstr "Search"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-12-18T09:03:51.0Z
+# ***de_DE: "Generieren Sie einen Link zur Weiterempfehlung."***
+#, autotranslation: {"time":1576659831}
+msgid "locals.leads.widget.fieldset.affiliate_general.footer"
+msgstr "Generate a referral link."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-12-18T09:03:52.0Z
+# ***de_DE: "Kundennummer erfolgreich gefunden."***
+#, autotranslation: {"time":1576659832}
+msgid "locals.leads.widget.fieldset.affiliate_general.success"
+msgstr "Customer number successfully found."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-12-18T09:03:52.0Z
+# ***de_DE: "Weiterempfehlung"***
+#, autotranslation: {"time":1576659832}
+msgid "locals.leads.widget.fieldset.affiliate_general.title"
+msgstr "Recommendation"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:26.0Z
+# ***de_DE: "Weiter"***
+#, autotranslation: {"time":1557143546}
+msgid "locals.leads.widget.fieldset.booking_contact.button"
+msgstr "More"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:27.0Z
+# ***de_DE: "Wie können wir Sie erreichen?"***
+#, autotranslation: {"time":1557143547}
+msgid "locals.leads.widget.fieldset.booking_contact.introduction"
+msgstr "How can we reach you?"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:27.0Z
+# ***de_DE: "Weiter"***
+#, autotranslation: {"time":1557143547}
+msgid "locals.leads.widget.fieldset.booking_general.button"
+msgstr "More"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:27.0Z
+# ***de_DE: "Buchen Sie jetzt das tolle Modul!"***
+#, autotranslation: {"time":1557143547}
+msgid "locals.leads.widget.fieldset.booking_general.introduction"
+msgstr "Book the great module now!"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:28.0Z
+# ***de_DE: "Jetzt bestellen"***
+#, autotranslation: {"time":1557143548}
+msgid "locals.leads.widget.fieldset.booking_general.title"
+msgstr "Order now"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:28.0Z
+# ***de_DE: "Jetzt bestellen"***
+#, autotranslation: {"time":1557143548}
+msgid "locals.leads.widget.fieldset.booking_overview.button"
+msgstr "Order now"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:28.0Z
+# ***de_DE: "Überprüfen Sie Ihre Angaben und schließen Sie die Bestellung ab."***
+#, autotranslation: {"time":1557143548}
+msgid "locals.leads.widget.fieldset.booking_overview.introduction"
+msgstr "Check your details and complete the order."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:29.0Z
+# ***de_DE: "Vielen Dank!\n\nSie erhalten nach wenigen Minuten Ihre Auftragsbestätigung und Ihre Zugangsdaten."***
+#, autotranslation: {"time":1557143549}
+msgid "locals.leads.widget.fieldset.booking_overview.success"
+msgstr "Thank you very much.\n\nAfter a few minutes you will receive your order confirmation and access data."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:58.0Z
+# ***de_DE: "Beratung anfordern"***
+#, autotranslation: {"time":1547726758}
+msgid "locals.leads.widget.fieldset.contact_general.button"
+msgstr "Request advice"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:59.0Z
+# ***de_DE: "Persönliche und kompetente Beratung oder ein individuelles Angebot."***
+#, autotranslation: {"time":1547726759}
+msgid "locals.leads.widget.fieldset.contact_general.footer"
+msgstr "Personal and competent advice or an individual offer."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:59.0Z
+# ***de_DE: "Vielen Dank für Ihre Anfrage!\n\nWir werden uns zeitnah bei Ihnen melden."***
+#, autotranslation: {"time":1547726759}
+msgid "locals.leads.widget.fieldset.contact_general.success"
+msgstr "Thank you very much for your inquiry!\n\nWe will get back to you as soon as possible."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+# ***de_DE: "Beratung"***
+msgid "locals.leads.widget.fieldset.contact_general.title"
+msgstr "Consulting"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:29.0Z
+# ***de_DE: "Abschicken"***
+#, autotranslation: {"time":1557143549}
+msgid "locals.leads.widget.fieldset.internal_general.button"
+msgstr "Send"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:30.0Z
+# ***de_DE: "Erstellen Sie einen Fall zur internen Übergabe."***
+#, autotranslation: {"time":1557143550}
+msgid "locals.leads.widget.fieldset.internal_general.footer"
+msgstr "Create a case for internal transfer."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:30.0Z
+# ***de_DE: "Der Fall wurde angelegt."***
+#, autotranslation: {"time":1557143550}
+msgid "locals.leads.widget.fieldset.internal_general.success"
+msgstr "The case was created."
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-05-06T11:52:32.0Z
+# ***de_DE: "Der Fall #[_1|_1] wurde angelegt.<br/><br/><a href=\"[_2|_2]\" target=\"_blank\">Fall öffnen</a> oder <a href=\"#\" onclick=\"[_3|_3]\">neuen Fall erstellen</a>."***
+#, autotranslation: {"time":1557143552}
+msgid "locals.leads.widget.fieldset.internal_general.success_link"
+msgstr "The case #[_1|_1] was created.<br/><br/><a href=\"[_2|_2]\" target=\"_blank\">open case</a> or <a href=\"#\" onclick=\"[_3|_3]\">create new case</a>."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:33.0Z
+# ***de_DE: "Fall anlegen"***
+#, autotranslation: {"time":1557143553}
+msgid "locals.leads.widget.fieldset.internal_general.title"
+msgstr "Create case"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:05:59.0Z
+# ***de_DE: "Absenden"***
+#, autotranslation: {"time":1547726759}
+msgid "locals.leads.widget.fieldset.issue_general.button"
+msgstr "despatch"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:00.0Z
+# ***de_DE: "Erstellen Sie eine Anfrage für eine Hilfestellung oder Problembeschreibung."***
+#, autotranslation: {"time":1547726760}
+msgid "locals.leads.widget.fieldset.issue_general.footer"
+msgstr "Create a request for assistance or problem description."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:00.0Z
+# ***de_DE: "Ihre Supportanfrage ist erfolgreich eingegangen. Wir melden uns schnellstmöglich per E-Mail bei Ihnen zurück."***
+#, autotranslation: {"time":1547726760}
+msgid "locals.leads.widget.fieldset.issue_general.success"
+msgstr "Your support request has been successfully received. We will get back to you as soon as possible by e-mail."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:01.0Z
+# ***de_DE: "Supportanfrage"***
+#, autotranslation: {"time":1547726761}
+msgid "locals.leads.widget.fieldset.issue_general.title"
+msgstr "support request"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:01.0Z
+# ***de_DE: "Weiter"***
+#, autotranslation: {"time":1547726761}
+msgid "locals.leads.widget.fieldset.testing_general.button"
+msgstr "More"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:02.0Z
+# ***de_DE: "Voller Funktionsumfang, keine Zahlungsdaten oder Kündigung erforderlich - Testzugang endet nach 14 Tagen automatisch."***
+#, autotranslation: {"time":1547726762}
+msgid "locals.leads.widget.fieldset.testing_general.footer"
+msgstr "Full functionality, no payment data or cancellation required - test access ends automatically after 14 days."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+# ***de_DE: "Testen"***
+msgid "locals.leads.widget.fieldset.testing_general.title"
+msgstr "Trial"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:02.0Z
+# ***de_DE: "Testzugang anfordern"***
+#, autotranslation: {"time":1547726762}
+msgid "locals.leads.widget.fieldset.testing_modules.button"
+msgstr "Request a trial account"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:02.0Z
+# ***de_DE: "Für welche Module interessieren Sie sich?"***
+#, autotranslation: {"time":1547726762}
+msgid "locals.leads.widget.fieldset.testing_modules.introduction"
+msgstr "Which modules are you interested in?"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:03.0Z
+# ***de_DE: "Ihre Anfrage ist eingegangen. Bitte bestätigen Sie jetzt Ihre E-Mail-Adresse.\n\nBitte prüfen Sie jetzt Ihren E-Mail-Posteingang. Zur Bestätigung Ihrer E-Mail-Adresse klicken Sie einfach auf den Link, den Sie in der Bestätigungs-E-Mail von gastronovi erhalten haben.\n\nÜbrigens: Wenn Sie die Bestätigungs-E-Mail nicht erhalten haben, schauen Sie bitte in Ihrem Spam-Ordner nach oder prüfen Sie, ob die E-Mail-Adresse richtig eingegeben wurde."***
+#, autotranslation: {"time":1547726763}
+msgid "locals.leads.widget.fieldset.testing_modules.success"
+msgstr "Your request has been received. Please confirm your e-mail address now.\n\nPlease check your e-mail inbox now. To confirm your e-mail address, simply click on the link that you received in the confirmation e-mail from gastronovi.\n\nBy the way: If you did not receive the confirmation e-mail, please check your spam folder or check if the e-mail address was entered correctly."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:33.0Z
+# ***de_DE: "Kunde / Kontakt"***
+#, autotranslation: {"time":1557143553}
+msgid "locals.leads.widget.header.contact.label"
+msgstr "Customer / Contact"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:33.0Z
+# ***de_DE: "Erfasst durch"***
+#, autotranslation: {"time":1557143553}
+msgid "locals.leads.widget.header.creator.label"
+msgstr "Created by"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:33.0Z
+# ***de_DE: "Anliegen"***
+#, autotranslation: {"time":1557143553}
+msgid "locals.leads.widget.header.issue.label"
+msgstr "Concerns"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+#: ***Automated Translation*** 2019-05-06T11:52:34.0Z
+# ***de_DE: "Weiterleitung an"***
+#, autotranslation: {"time":1557143554}
+msgid "locals.leads.widget.header.responsible.label"
+msgstr "Forwarding to"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-01-17T12:06:03.0Z
+# ***de_DE: "Die Daten sind nicht vollständig."***
+#, autotranslation: {"time":1547726763}
+msgid "locals.leads.widget.incompletevalues"
+msgstr "The data is not complete."
+
+#: /app/modules/default/controllers/LeadsController.php
+#: ***Automated Translation*** 2019-01-17T12:06:04.0Z
+# ***de_DE: "Diese Anfrage wurde als Spam identifiziert. Falls es sich um eine korrekte Eingabe handelt, melden Sie sich bitte bei uns."***
+#, autotranslation: {"time":1547726764}
+msgid "locals.leads.widget.spam"
+msgstr "This request has been identified as spam. If this is a correct entry, please contact us."
+
+#: /react/containers/MainPage/MainPage.js
+#: ***Automated Translation*** 2019-01-17T12:06:04.0Z
+# ***de_DE: "Lead aufnehmen"***
+#, autotranslation: {"time":1547726764}
+msgid "locals.mainpage.boxlist.addnewlead"
+msgstr "Record Lead"
+
+#: /react/containers/MainPage/MainPage.js
+#: ***Automated Translation*** 2019-01-17T12:06:04.0Z
+# ***de_DE: "Alle Leads"***
+#, autotranslation: {"time":1547726764}
+msgid "locals.mainpage.boxlist.allleads"
+msgstr "All Leads"
+
+#: /react/containers/MainPage/MainPage.js
+#: ***Automated Translation*** 2019-01-17T12:06:05.0Z
+# ***de_DE: "Meine Inhalte"***
+#, autotranslation: {"time":1547726765}
+msgid "locals.mainpage.boxlist.contents"
+msgstr "My contents"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+#: /react/containers/MainPage/MainPage.js
+#: ***Automated Translation*** 2019-01-17T12:06:05.0Z
+# ***de_DE: "Meine Leads"***
+#, autotranslation: {"time":1547726765}
+msgid "locals.mainpage.boxlist.myleads"
+msgstr "My Leads"
+
+#: /react/containers/MainPage/MainPage.js
+#: ***Automated Translation*** 2019-01-17T12:06:05.0Z
+# ***de_DE: "Übersicht"***
+#, autotranslation: {"time":1547726765}
+msgid "locals.mainpage.title.dashboard"
+msgstr "Overview of the"
+
+#: /react/containers/MainPage/MainPage.js
+#: ***Automated Translation*** 2019-01-17T12:06:05.0Z
+# ***de_DE: "Hier finden Sie die wichtigsten Aktionen"***
+#, autotranslation: {"time":1547726765}
+msgid "locals.mainpage.titlesmall.what"
+msgstr "Here you can find the most important actions"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:06.0Z
+# ***de_DE: "(Definition über zusätzliche Anmerkungen, z.B. \"LIV-Paket\")"***
+#, autotranslation: {"time":1547726766}
+msgid "locals.newlead.label.gn_mod_campaign"
+msgstr "(Definition via additional comments, e.g. \"LIV package\")"
+
+#: /react/containers/NewLeadForm/NewLead.js
+#: ***Automated Translation*** 2019-01-17T12:06:07.0Z
+# ***de_DE: "Nehmen Sie hier neue Leads auf. Achten Sie bitte auf die Korrektheit der angegebenen Daten, damit eine reibungslose Kontaktaufnahme erfolgen kann."***
+#, autotranslation: {"time":1547726767}
+msgid "locals.newlead.msg.info"
+msgstr "Record new leads here. Please pay attention to the correctness of the given data, so that a smooth establishment of contact can take place."
+
+#: /react/containers/NewLeadForm/NewLead.js
+# ***de_DE: "Visitenkarte"***
+msgid "locals.newlead.title.bussinescard"
+msgstr "Bussines Card"
+
+#: /react/containers/NewLeadForm/NewLead.js
+#: ***Automated Translation*** 2019-01-17T12:06:07.0Z
+# ***de_DE: "Lead aufnehmen"***
+#, autotranslation: {"time":1547726767}
+msgid "locals.newlead.title.newlead"
+msgstr "Record Lead"
+
+#: /react/containers/NewLeadForm/NewLead.js
+#: ***Automated Translation*** 2019-01-17T12:06:07.0Z
+# ***de_DE: "Aufnahme der Daten eines Interessenten"***
+#, autotranslation: {"time":1547726767}
+msgid "locals.newlead.titlesmall.addnewlead"
+msgstr "Recording the data of an interested party"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:08.0Z
+# ***de_DE: "Art des Betriebs"***
+#, autotranslation: {"time":1547726768}
+msgid "locals.newleadform.businesstype"
+msgstr "Type of business"
+
+#: /react/containers/NewLeadForm/NewLeadFormMessage.js
+#: ***Automated Translation*** 2019-01-17T12:06:08.0Z
+# ***de_DE: "Lead aufnehmen"***
+#, autotranslation: {"time":1547726768}
+msgid "locals.newleadform.button.addnewlead"
+msgstr "Record Lead"
+
+#: /react/containers/NewLeadForm/NewLeadFormMessage.js
+#: ***Automated Translation*** 2019-01-17T12:06:08.0Z
+# ***de_DE: "Zurück zur Startseite"***
+#, autotranslation: {"time":1547726768}
+msgid "locals.newleadform.button.back"
+msgstr "Back to the home page"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:08.0Z
+# ***de_DE: "Anruf"***
+#, autotranslation: {"time":1547726768}
+msgid "locals.newleadform.campaign.call"
+msgstr "call"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:09.0Z
+# ***de_DE: "Consulting"***
+#, autotranslation: {"time":1547726769}
+msgid "locals.newleadform.campaign.consulting"
+msgstr "consulting"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:09.0Z
+# ***de_DE: "Drucker"***
+#, autotranslation: {"time":1547726769}
+msgid "locals.newleadform.campaign.drucker"
+msgstr "Printers"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:09.0Z
+# ***de_DE: "Abweichende E-Mail-Adresse"***
+#, autotranslation: {"time":1547726769}
+msgid "locals.newleadform.campaign.email"
+msgstr "Different e-mail address"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:09.0Z
+# ***de_DE: "EC-Geräte"***
+#, autotranslation: {"time":1547726769}
+msgid "locals.newleadform.campaign.equipment"
+msgstr "EC devices"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:10.0Z
+# ***de_DE: "Hardware"***
+#, autotranslation: {"time":1547726770}
+msgid "locals.newleadform.campaign.header.hardware"
+msgstr "hardware"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:10.0Z
+# ***de_DE: "Name und Art des Betriebes"***
+#, autotranslation: {"time":1547726770}
+msgid "locals.newleadform.campaign.header.name"
+msgstr "Name and type of establishment"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:10.0Z
+# ***de_DE: "Termin"***
+#, autotranslation: {"time":1547726770}
+msgid "locals.newleadform.campaign.header.termin"
+msgstr "appointment"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:11.0Z
+# ***de_DE: "Nächste Aktivitäten/Wünsche"***
+#, autotranslation: {"time":1547726771}
+msgid "locals.newleadform.campaign.header.wishes"
+msgstr "Next Activities/Wishes"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:11.0Z
+# ***de_DE: "Infomaterial"***
+#, autotranslation: {"time":1547726771}
+msgid "locals.newleadform.campaign.information"
+msgstr "info material"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:11.0Z
+# ***de_DE: "Vor-Ort-Installation"***
+#, autotranslation: {"time":1547726771}
+msgid "locals.newleadform.campaign.installation"
+msgstr "on-site installation"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:11.0Z
+# ***de_DE: "Integration"***
+#, autotranslation: {"time":1547726771}
+msgid "locals.newleadform.campaign.integration"
+msgstr "integration"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:12.0Z
+# ***de_DE: "Sonstiges"***
+#, autotranslation: {"time":1547726772}
+msgid "locals.newleadform.campaign.miscellaneous"
+msgstr "Other"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:12.0Z
+# ***de_DE: "Mobiles"***
+#, autotranslation: {"time":1547726772}
+msgid "locals.newleadform.campaign.mobiles"
+msgstr "mobiles"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:12.0Z
+# ***de_DE: "Netzwerk"***
+#, autotranslation: {"time":1547726772}
+msgid "locals.newleadform.campaign.network"
+msgstr "Network"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:12.0Z
+# ***de_DE: "Nein"***
+#, autotranslation: {"time":1547726772}
+msgid "locals.newleadform.campaign.no"
+msgstr "No"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:13.0Z
+# ***de_DE: "Anzahl der Filialen/Betriebe"***
+#, autotranslation: {"time":1547726773}
+msgid "locals.newleadform.campaign.numberofbranches"
+msgstr "Number of branches/companies"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:13.0Z
+# ***de_DE: "Angebot"***
+#, autotranslation: {"time":1547726773}
+msgid "locals.newleadform.campaign.offer"
+msgstr "Offer to buy"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:13.0Z
+# ***de_DE: "Position im Betrieb"***
+#, autotranslation: {"time":1547726773}
+msgid "locals.newleadform.campaign.position"
+msgstr "Position in company"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:14.0Z
+# ***de_DE: "Starttermin"***
+#, autotranslation: {"time":1547726774}
+msgid "locals.newleadform.campaign.starttermin"
+msgstr "start date"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:14.0Z
+# ***de_DE: "Tablets"***
+#, autotranslation: {"time":1547726774}
+msgid "locals.newleadform.campaign.tablets"
+msgstr "tablets"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:14.0Z
+# ***de_DE: "Vor-Ort-Termin"***
+#, autotranslation: {"time":1547726774}
+msgid "locals.newleadform.campaign.termin"
+msgstr "on-site appointment"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:14.0Z
+# ***de_DE: "Terminals"***
+#, autotranslation: {"time":1547726774}
+msgid "locals.newleadform.campaign.terminals"
+msgstr "terminals"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:15.0Z
+# ***de_DE: "Vor-Ort-Schulung"***
+#, autotranslation: {"time":1547726775}
+msgid "locals.newleadform.campaign.training"
+msgstr "on-site training"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:15.0Z
+# ***de_DE: "Testzugang"***
+#, autotranslation: {"time":1547726775}
+msgid "locals.newleadform.campaign.trial"
+msgstr "test access"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:15.0Z
+# ***de_DE: "Ja"***
+#, autotranslation: {"time":1547726775}
+msgid "locals.newleadform.campaign.yes"
+msgstr "Yes"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:16.0Z
+# ***de_DE: "Stadt"***
+#, autotranslation: {"time":1547726776}
+msgid "locals.newleadform.city"
+msgstr "town"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:16.0Z
+# ***de_DE: "Betriebsname"***
+#, autotranslation: {"time":1547726776}
+msgid "locals.newleadform.company"
+msgstr "company name"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:16.0Z
+# ***de_DE: "Land"***
+#, autotranslation: {"time":1547726776}
+msgid "locals.newleadform.country"
+msgstr "country"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:16.0Z
+# ***de_DE: "Zusätzliche Anmerkungen"***
+#, autotranslation: {"time":1547726776}
+msgid "locals.newleadform.description"
+msgstr "Additional remarks"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:17.0Z
+# ***de_DE: "E-Mail"***
+#, autotranslation: {"time":1547726777}
+msgid "locals.newleadform.email"
+msgstr "email"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:17.0Z
+# ***de_DE: "Interne Referenz"***
+#, autotranslation: {"time":1547726777}
+msgid "locals.newleadform.internalreference"
+msgstr "Internal reference"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:17.0Z
+# ***de_DE: "An welchen Modulen besteht Interesse?"***
+#, autotranslation: {"time":1547726777}
+msgid "locals.newleadform.modules"
+msgstr "Which modules are you interested in?"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:17.0Z
+# ***de_DE: "Ansprechpartner"***
+#, autotranslation: {"time":1547726777}
+msgid "locals.newleadform.name"
+msgstr "Contact for"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:18.0Z
+# ***de_DE: "Telefon"***
+#, autotranslation: {"time":1547726778}
+msgid "locals.newleadform.phone"
+msgstr "Phone"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:18.0Z
+# ***de_DE: "Betriebsart wählen"***
+#, autotranslation: {"time":1547726778}
+msgid "locals.newleadform.selectbusinesstype"
+msgstr "Select operating mode"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:18.0Z
+# ***de_DE: "Land wählen"***
+#, autotranslation: {"time":1547726778}
+msgid "locals.newleadform.selectcountry"
+msgstr "Select country"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:19.0Z
+# ***de_DE: "Vertriebspartner"***
+#, autotranslation: {"time":1547726779}
+msgid "locals.newleadform.selectpartner"
+msgstr "sales partners"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:19.0Z
+# ***de_DE: "Lead speichern"***
+#, autotranslation: {"time":1547726779}
+msgid "locals.newleadform.send"
+msgstr "Save Lead"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:19.0Z
+# ***de_DE: "Straße"***
+#, autotranslation: {"time":1547726779}
+msgid "locals.newleadform.street"
+msgstr "street"
+
+#: /react/store/sagas/newLead.js
+#: ***Automated Translation*** 2019-01-17T12:06:20.0Z
+# ***de_DE: "Der Lead wurde erfolgreich eingetragen."***
+#, autotranslation: {"time":1547726780}
+msgid "locals.newleadform.success"
+msgstr "The lead was entered successfully."
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: /react/containers/NewLeadForm/NewLeadFormMessage.js
+#: ***Automated Translation*** 2019-01-17T12:06:20.0Z
+# ***de_DE: "Kontaktdaten des Leads"***
+#, autotranslation: {"time":1547726780}
+msgid "locals.newleadform.title"
+msgstr "Contact details of the lead"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:20.0Z
+# ***de_DE: "PLZ"***
+#, autotranslation: {"time":1547726780}
+msgid "locals.newleadform.zip"
+msgstr "POSTCODE"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:20.0Z
+# ***de_DE: "Alle"***
+#, autotranslation: {"time":1547726780}
+msgid "locals.references.widget.companytype.all.text"
+msgstr "all"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:21.0Z
+# ***de_DE: "Bar & Club"***
+#, autotranslation: {"time":1547726781}
+msgid "locals.references.widget.companytype.bar.text"
+msgstr "Bar & Club"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:21.0Z
+# ***de_DE: "Café"***
+#, autotranslation: {"time":1547726781}
+msgid "locals.references.widget.companytype.cafe.text"
+msgstr "coffee shop"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:21.0Z
+# ***de_DE: "Camping"***
+#, autotranslation: {"time":1547726781}
+msgid "locals.references.widget.companytype.camping.text"
+msgstr "camping"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:22.0Z
+# ***de_DE: "Foodtruck"***
+#, autotranslation: {"time":1547726782}
+msgid "locals.references.widget.companytype.foodtruck.text"
+msgstr "food truck"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:22.0Z
+# ***de_DE: "Franchise"***
+#, autotranslation: {"time":1547726782}
+msgid "locals.references.widget.companytype.franchise.text"
+msgstr "franchise"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:22.0Z
+# ***de_DE: "Hotel"***
+#, autotranslation: {"time":1547726782}
+msgid "locals.references.widget.companytype.hotel.text"
+msgstr "hotel"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:22.0Z
+# ***de_DE: "Andere"***
+#, autotranslation: {"time":1547726782}
+msgid "locals.references.widget.companytype.other.text"
+msgstr "Other"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:23.0Z
+# ***de_DE: "Restaurant"***
+#, autotranslation: {"time":1547726783}
+msgid "locals.references.widget.companytype.restaurant.text"
+msgstr "restaurant"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:23.0Z
+# ***de_DE: "Imbiss"***
+#, autotranslation: {"time":1547726783}
+msgid "locals.references.widget.companytype.snack.text"
+msgstr "snack"
+
+#: /react/containers/Settings/Settings.js
+# ***de_DE: "Messe"***
+msgid "locals.settings.fairListLabel"
+msgstr "Fair"
+
+#: /react/containers/Settings/Settings.js
+# ***de_DE: "Erfassen von Leads für eine Messe"***
+msgid "locals.settings.fairsSourceLabel"
+msgstr "Erfassen von Leads für eine Messe"
+
+#: /react/components/Dashboard/Dashboard.js
+#: /react/containers/Settings/Settings.js
+# ***de_DE: "Einstellungen"***
+msgid "locals.settings.settingsWindowTitle"
+msgstr "Settings"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:23.0Z
+# ***de_DE: "Passwort ändern"***
+#, autotranslation: {"time":1547726783}
+msgid "locals.users.account.buttonchangepassword"
+msgstr "Change password"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:23.0Z
+# ***de_DE: "Daten ändern"***
+#, autotranslation: {"time":1547726783}
+msgid "locals.users.account.changeyourdata"
+msgstr "Change data"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:24.0Z
+# ***de_DE: "Passwort bestätigen"***
+#, autotranslation: {"time":1547726784}
+msgid "locals.users.account.confirmpassword"
+msgstr "Confirm password"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:24.0Z
+# ***de_DE: "Geben Sie Ihr aktuelles Passwort ein, um die Änderung Ihrer Daten zu bestätigen."***
+#, autotranslation: {"time":1547726784}
+msgid "locals.users.account.currentpassword"
+msgstr "Enter your current password to confirm your change."
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:24.0Z
+# ***de_DE: "E-Mail"***
+#, autotranslation: {"time":1547726784}
+msgid "locals.users.account.email"
+msgstr "email"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:25.0Z
+# ***de_DE: "Hier sehen Sie Ihre aktuellen Daten. Sie können diese Daten jederzeit ändern."***
+#, autotranslation: {"time":1547726785}
+msgid "locals.users.account.msg"
+msgstr "Here you can see your current data. You can change this data at any time."
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:25.0Z
+# ***de_DE: "Name"***
+#, autotranslation: {"time":1547726785}
+msgid "locals.users.account.name"
+msgstr "name"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:25.0Z
+# ***de_DE: "Neues Passwort"***
+#, autotranslation: {"time":1547726785}
+msgid "locals.users.account.newpassword"
+msgstr "New password"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:26.0Z
+# ***de_DE: "Speichern"***
+#, autotranslation: {"time":1547726786}
+msgid "locals.users.account.save"
+msgstr "Save"
+
+#: /react/store/sagas/users.js
+#: ***Automated Translation*** 2019-01-17T12:06:26.0Z
+# ***de_DE: "Es wurde eine E-Mail mit den weiteren Schritten versendet."***
+#, autotranslation: {"time":1547726786}
+msgid "locals.users.account.sendemailregister"
+msgstr "An e-mail with the further steps was sent."
+
+#: /react/store/sagas/users.js
+#: ***Automated Translation*** 2019-01-17T12:06:26.0Z
+# ***de_DE: "Es wurde eine E-Mail mit den weiteren Schritten versendet."***
+#, autotranslation: {"time":1547726786}
+msgid "locals.users.account.sendemailwithpassword"
+msgstr "An e-mail with the further steps was sent."
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:27.0Z
+# ***de_DE: "Ihr Zugang"***
+#, autotranslation: {"time":1547726787}
+msgid "locals.users.account.title"
+msgstr "your access"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:27.0Z
+# ***de_DE: "Password ändern"***
+#, autotranslation: {"time":1547726787}
+msgid "locals.users.account.titlechangeyourpassword"
+msgstr "Change Password"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:27.0Z
+# ***de_DE: "Ihre aktuellen Daten"***
+#, autotranslation: {"time":1547726787}
+msgid "locals.users.account.titlesmall"
+msgstr "Your current data"
+
+#: /react/store/sagas/users.js
+#: ***Automated Translation*** 2019-01-17T12:06:28.0Z
+# ***de_DE: "Ihre Daten wurden gespeichert."***
+#, autotranslation: {"time":1547726788}
+msgid "locals.users.account.yourdatawassaved"
+msgstr "Your data has been saved."
+
+#: /react/store/sagas/settings.js
+#: /react/store/sagas/users.js
+#: ***Automated Translation*** 2019-01-17T12:06:28.0Z
+# ***de_DE: "Ihr Passwort wurde geändert."***
+#, autotranslation: {"time":1547726788}
+msgid "locals.users.account.yourpasswordwaschanged"
+msgstr "Your password has been changed."
+
+#: /react/containers/AskPasswordForm/AskPasswordForm.js
+#: /react/containers/RegisterForm/NoPartnerId.js
+#: /react/containers/RegisterForm/RegisterFormMessage.js
+#: ***Automated Translation*** 2019-01-17T12:06:28.0Z
+# ***de_DE: "Zurück zur Anmeldung"***
+#, autotranslation: {"time":1547726788}
+msgid "locals.users.askpassword.backtologin"
+msgstr "Back to registration"
+
+#: /react/containers/RegisterForm/NoPartnerId.js
+# ***de_DE: "weiter"***
+msgid "locals.users.askpassword.next"
+msgstr "next"
+
+#: /react/components/LoginPage/LoginPage.js
+#: ***Automated Translation*** 2019-01-17T12:06:29.0Z
+# ***de_DE: "Ich habe mein Passwort vergessen"***
+#, autotranslation: {"time":1547726789}
+msgid "locals.users.askpassword.passwordForgotten"
+msgstr "I have forgotten my password"
+
+#: /react/containers/AskPasswordForm/AskPasswordForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:29.0Z
+# ***de_DE: "Passwort zurücksetzen"***
+#, autotranslation: {"time":1547726789}
+msgid "locals.users.askpassword.resetpassword"
+msgstr "Password reset"
+
+#: /react/containers/AskPasswordForm/AskPasswordForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:29.0Z
+# ***de_DE: "Senden"***
+#, autotranslation: {"time":1547726789}
+msgid "locals.users.askpassword.send"
+msgstr "transmission"
+
+#: /react/containers/RegisterForm/NoPartnerId.js
+# ***de_DE: "Ihr ID-Partnerschlüssel"***
+msgid "locals.users.askpassword.youridpartnerkey"
+msgstr "Your Id partner key"
+
+#: /react/containers/AskPasswordForm/AskPasswordForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:29.0Z
+# ***de_DE: "E-Mail"***
+#, autotranslation: {"time":1547726789}
+msgid "locals.users.askpassword.yourlogin"
+msgstr "email"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:30.0Z
+# ***de_DE: "Die Daten sind nicht vollständig."***
+#, autotranslation: {"time":1547726790}
+msgid "locals.users.edit.incompletevalues"
+msgstr "The data is not complete."
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:30.0Z
+# ***de_DE: "Die Daten sind nicht vollständig."***
+#, autotranslation: {"time":1547726790}
+msgid "locals.users.login.incompletevalues"
+msgstr "The data is not complete."
+
+#: /react/containers/AlertDialogLoginForm/AlertDialogLoginForm.js
+#: /react/containers/LoginForm/LoginForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:30.0Z
+# ***de_DE: "E-Mail"***
+#, autotranslation: {"time":1547726790}
+msgid "locals.users.login.labelLogin"
+msgstr "email"
+
+#: /react/containers/AlertDialogLoginForm/AlertDialogLoginForm.js
+#: /react/containers/LoginForm/LoginForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:31.0Z
+# ***de_DE: "Passwort"***
+#, autotranslation: {"time":1547726791}
+msgid "locals.users.login.labelPassword"
+msgstr "password"
+
+#: /react/containers/AlertDialogLoginForm/AlertDialogLoginForm.js
+#: /react/containers/LoginForm/LoginForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:31.0Z
+# ***de_DE: "Anmelden"***
+#, autotranslation: {"time":1547726791}
+msgid "locals.users.login.login"
+msgstr "Log in"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:31.0Z
+# ***de_DE: "Die Zugangsdaten sind ungültig."***
+#, autotranslation: {"time":1547726791}
+msgid "locals.users.login.wrongcredentials"
+msgstr "The access data is invalid."
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-05-17T07:28:34.0Z
+# ***de_DE: "Ungültige Partner-ID"***
+#, autotranslation: {"time":1558078114}
+msgid "locals.users.partner.notfound"
+msgstr "Invalid Partner ID"
+
+#: /app/modules/default/views/scripts/users/password.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:31.0Z
+# ***de_DE: "Passwort zurücksetzen"***
+#, autotranslation: {"time":1547726791}
+msgid "locals.users.password.header"
+msgstr "Password reset"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:32.0Z
+# ***de_DE: "Sehr geehrte/r [_1|_1],\n\nIhr automatisch erstelltes neues Passwort lautet:\n\n[_2|_2]\n\nBitte ändern Sie dieses Passwort schnellstmöglich auf ein von Ihnen gesetztes Passwort."***
+#, autotranslation: {"time":1547726792}
+msgid "locals.users.password.mail_success.content"
+msgstr "Dear [_1|_1],\n\nYour automatically created new password is:\n\n[_2|_2]\n\nPlease change this password as soon as possible to a password you have set."
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:33.0Z
+# ***de_DE: "Neues Passwort"***
+#, autotranslation: {"time":1547726793}
+msgid "locals.users.password.mail_success.subject"
+msgstr "New password"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:34.0Z
+# ***de_DE: "Sehr geehrte/r [_1|_1],\n\nSie haben ein neues Passwort angefordert. Bitte verifizieren Sie Ihre E-Mail-Adresse durch Aufruf des folgenden Links:\n\n<a href=\"[_2|_2]\">[_2|_2]</a>"***
+#, autotranslation: {"time":1547726794}
+msgid "locals.users.password.mail_verification.content"
+msgstr "Dear [_1|_1],\n\nYou have requested a new password. Please verify your e-mail address by clicking on the following link:\n\n<a href=\"[_2|_2]\">[_2|_2]</a>"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:35.0Z
+# ***de_DE: "Passwort zurücksetzen"***
+#, autotranslation: {"time":1547726795}
+msgid "locals.users.password.mail_verification.subject"
+msgstr "Password reset"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:35.0Z
+# ***de_DE: "Der Benutzer wurde nicht gefunden."***
+#, autotranslation: {"time":1547726795}
+msgid "locals.users.password.notfound"
+msgstr "The user was not found."
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:36.0Z
+# ***de_DE: "Sie erhalten eine E-Mail mit Ihrem neuen Passwort."***
+#, autotranslation: {"time":1547726796}
+msgid "locals.users.password.success"
+msgstr "You will receive an e-mail with your new password."
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:36.0Z
+# ***de_DE: "Dieser Benutzer existiert bereits."***
+#, autotranslation: {"time":1547726796}
+msgid "locals.users.register.alreadyexisting"
+msgstr "This user already exists."
+
+#: /react/containers/LoginForm/LoginForm.js
+# ***de_DE: "Neuen Account erstellen"***
+msgid "locals.users.register.createaccount"
+msgstr "Create new account"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:36.0Z
+# ***de_DE: "Die Registrierung ist fehlgeschlagen."***
+#, autotranslation: {"time":1547726796}
+msgid "locals.users.register.error"
+msgstr "The registration failed."
+
+#: /react/containers/RegisterForm/RegisterForm.js
+# ***de_DE: "Ich habe schon einen Account"***
+msgid "locals.users.register.ihaveaccount"
+msgstr "I have an account"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:36.0Z
+# ***de_DE: "Die Daten sind nicht vollständig."***
+#, autotranslation: {"time":1547726796}
+msgid "locals.users.register.incompletevalues"
+msgstr "The data is not complete."
+
+#: ***Obsolete Key***
+#: ***Automated Translation*** 2019-01-17T12:06:37.0Z
+# ***de_DE: "Es wurde kein korrekter Partner-Key übergeben."***
+#, autotranslation: {"time":1547726797}
+#, obsolete
+msgid "locals.users.register.invalidkey"
+msgstr "No correct partner key was transferred."
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:37.0Z
+# ***de_DE: "Das verbundene Unternehmen ist nicht valide."***
+#, autotranslation: {"time":1547726797}
+msgid "locals.users.register.invalidparent"
+msgstr "The affiliated company is not valid."
+
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:37.0Z
+# ***de_DE: "E-Mail"***
+#, autotranslation: {"time":1547726797}
+msgid "locals.users.register.labelemail"
+msgstr "email"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:38.0Z
+# ***de_DE: "E-Mail-Verifizierung"***
+#, autotranslation: {"time":1547726798}
+msgid "locals.users.register.labelemailverification"
+msgstr "Email Verification"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:38.0Z
+# ***de_DE: "Name"***
+#, autotranslation: {"time":1547726798}
+msgid "locals.users.register.labelname"
+msgstr "name"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:38.0Z
+# ***de_DE: "Passwort"***
+#, autotranslation: {"time":1547726798}
+msgid "locals.users.register.labelpassword"
+msgstr "password"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:39.0Z
+# ***de_DE: "Bestätigen Sie das Passwort"***
+#, autotranslation: {"time":1547726799}
+msgid "locals.users.register.labelpasswordverification"
+msgstr "Confirm password"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:40.0Z
+# ***de_DE: "Sehr geehrte/r [_1|_1],\n\nVielen Dank für Ihre Anmeldung. Bitte verifizieren Sie Ihre E-Mail-Adresse durch Aufruf des folgenden Links:\n\n<a href=\"[_2|_2]\">[_2|_2]</a>"***
+#, autotranslation: {"time":1547726800}
+msgid "locals.users.register.mail.content"
+msgstr "Dear [_1|_1],\n\nThank you very much for your registration. Please verify your e-mail address by clicking on the following link:\n\n<a href=\"[_2|_2]\">[_2|_2]</a>"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:41.0Z
+# ***de_DE: "Verifizierung"***
+#, autotranslation: {"time":1547726801}
+msgid "locals.users.register.mail.subject"
+msgstr "verification"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:41.0Z
+# ***de_DE: "Registrieren"***
+#, autotranslation: {"time":1547726801}
+msgid "locals.users.register.register"
+msgstr "register"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:42.0Z
+# ***de_DE: "Durch den Klick auf \"Registrieren\" stimmen Sie unseren <a href=\"https://www.gastronovi.de/datenschutzerklarung\" target=\"_blank\">Datenschutzbestimmungen</a> zu."***
+#, autotranslation: {"time":1547726802}
+msgid "locals.users.register.termsofuse"
+msgstr "By clicking on \"Register\" you agree to our <a href=\"https://www.gastronovi.de/datenschutzerklarung\" target=\"_blank\">privacy policy</a>."
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:43.0Z
+# ***de_DE: "Die Felder \"[_1|_1]\" und \"[_2|_2]\" stimmen nicht überein."***
+#, autotranslation: {"time":1547726803}
+msgid "locals.users.validation.matches"
+msgstr "The fields \"[_1|_1]\" and \"[_2|_2]\" do not match."
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:45.0Z
+# ***de_DE: "Die Mindestlänge für das Feld \"[_1|_1]\" von [_2 Zeichen|_2 Zeichen] ist nicht erreicht."***
+#, autotranslation: {"time":1547726805}
+msgid "locals.users.validation.minlength"
+msgstr "The minimum length for the \"[_1|_1]\" field of [_2 characters|_2 characters] has not been reached."
+
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:46.0Z
+# ***de_DE: "Field \"[_1|_1]\" is required."***
+#, autotranslation: {"time":1547726806}
+msgid "locals.users.validation.required"
+msgstr "Field \"[_1|_1]\" is required."
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+#: ***Automated Translation*** 2019-01-17T12:06:47.0Z
+# ***de_DE: "Das Feld \"[_1|_1]\" beinhaltet keine korrekte E-Mail-Adresse."***
+#, autotranslation: {"time":1547726807}
+msgid "locals.users.validation.validemail"
+msgstr "The field \"[_1|_1]\" does not contain a correct e-mail address."
+
+#: /app/modules/default/views/scripts/users/verify.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:47.0Z
+# ***de_DE: "Verifizierung"***
+#, autotranslation: {"time":1547726807}
+msgid "locals.users.verification.header"
+msgstr "verification"
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:47.0Z
+# ***de_DE: "Die eingegebenen Daten sind ungültig oder der Benutzer ist bereits verifiziert."***
+#, autotranslation: {"time":1547726807}
+msgid "locals.users.verify.notfound"
+msgstr "The entered data is invalid or the user is already verified."
+
+#: /app/modules/default/controllers/UsersController.php
+#: ***Automated Translation*** 2019-01-17T12:06:48.0Z
+# ***de_DE: "Der Benutzer wurde erfolgreich verifiziert. Sie können sind nun anmelden: <a href=\"[_1|_1]\">Anmeldung</a>."***
+#, autotranslation: {"time":1547726808}
+msgid "locals.users.verify.success"
+msgstr "The user was successfully verified. You are now ready to login: <a href=\"[_1|_1]\">Login</a>."
+
+#: /app/templates/email/Abstract/global/standard/footer.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:49.0Z
+# ***de_DE: "Impressum"***
+#, autotranslation: {"time":1547726809}
+msgid "mail.footer.imprint"
+msgstr "Imprint (German)"
+
+#: /app/templates/email/Abstract/global/standard/footer.tpl
+#: ***Automated Translation*** 2019-01-17T12:06:49.0Z
+# ***de_DE: "Anmelden"***
+#, autotranslation: {"time":1547726809}
+msgid "mail.footer.login"
+msgstr "Log in"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:49.0Z
+# ***de_DE: "Schlüsselwörter"***
+#, core
+#, autotranslation: {"time":1547726809}
+msgid "models.File.keywords.header"
+msgstr "key words"
+
+#: ***Automated Translation*** 2019-01-17T12:06:50.0Z
+# ***de_DE: "Original"***
+#, autotranslation: {"time":1547726810}
+msgid "models.File.original.header"
+msgstr "original"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:50.0Z
+# ***de_DE: "Öffentlich"***
+#, core
+#, autotranslation: {"time":1547726810}
+msgid "models.File.public.header"
+msgstr "Public"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:50.0Z
+# ***de_DE: "Größe"***
+#, core
+#, autotranslation: {"time":1547726810}
+msgid "models.File.size.header"
+msgstr "Size"
+
+#: ***Automated Translation*** 2019-01-17T12:06:50.0Z
+# ***de_DE: "Status"***
+#, autotranslation: {"time":1547726810}
+msgid "models.File.status.header"
+msgstr "status"
+
+#: ***Automated Translation*** 2019-01-17T12:06:51.0Z
+# ***de_DE: "Art"***
+#, autotranslation: {"time":1547726811}
+msgid "models.File.type.header"
+msgstr "manner"
+
+#: Database table Group
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:51.0Z
+# ***de_DE: "Gruppe"***
+#, core
+#, autotranslation: {"time":1547726811}
+msgid "models.Group._name.header"
+msgstr "group"
+
+#: Database table Group
+#: ***Automated Translation*** 2019-01-17T12:06:51.0Z
+# ***de_DE: "Gruppen"***
+#, autotranslation: {"time":1547726811}
+msgid "models.Group._name.plural"
+msgstr "groups"
+
+#: Database table Group
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:52.0Z
+# ***de_DE: "Dem Benutzer eine Richtlinie zuordnen"***
+#, core
+#, autotranslation: {"time":1547726812}
+msgid "models.Group._name.tooltip"
+msgstr "Assign a policy to the user"
+
+#: ***Automated Translation*** 2019-01-17T12:06:52.0Z
+# ***de_DE: "Name"***
+#, autotranslation: {"time":1547726812}
+msgid "models.Group.name.header"
+msgstr "name"
+
+#: Database table User
+#: ***Automated Translation*** 2019-01-17T12:06:52.0Z
+# ***de_DE: "Benutzer"***
+#, autotranslation: {"time":1547726812}
+msgid "models.User._name.header"
+msgstr "User"
+
+#: Database table User
+#: ***Automated Translation*** 2019-01-17T12:06:52.0Z
+# ***de_DE: "Benutzer"***
+#, autotranslation: {"time":1547726812}
+msgid "models.User._name.plural"
+msgstr "User"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:53.0Z
+# ***de_DE: "Aktiv"***
+#, core
+#, autotranslation: {"time":1547726813}
+msgid "models.User.active.header"
+msgstr "active"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:53.0Z
+# ***de_DE: "Ist das feld nicht gesetzt, ist der Benutzer deaktiviert bzw. gesperrt"***
+#, core
+#, autotranslation: {"time":1547726813}
+msgid "models.User.active.tooltip"
+msgstr "If the field is not set, the user is deactivated or locked."
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:53.0Z
+# ***de_DE: "Verifizierungsschlüssel"***
+#, core
+#, autotranslation: {"time":1547726813}
+msgid "models.User.auth.header"
+msgstr "verification key"
+
+#: ***Automated Translation*** 2019-01-17T12:06:54.0Z
+# ***de_DE: "Wird bei der Registrierung an den Benutzer per Email versendet."***
+#, autotranslation: {"time":1547726814}
+msgid "models.User.auth.tooltip"
+msgstr "Sent to the user by email during registration."
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:54.0Z
+# ***de_DE: "E-Mail"***
+#, core
+#, autotranslation: {"time":1547726814}
+msgid "models.User.email.header"
+msgstr "email"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:54.0Z
+# ***de_DE: "Ihre E-Mail Adresse"***
+#, core
+#, autotranslation: {"time":1547726814}
+msgid "models.User.email.tooltip"
+msgstr "Your e-mail address"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:55.0Z
+# ***de_DE: "Foto"***
+#, core
+#, autotranslation: {"time":1547726815}
+msgid "models.User.file_id.header"
+msgstr "photo"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:55.0Z
+# ***de_DE: "Ihr persönliches Foto für die Darstellung des Benutzerprofils"***
+#, core
+#, autotranslation: {"time":1547726815}
+msgid "models.User.file_id.tooltip"
+msgstr "Your personal photo for the presentation of the user profile"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:55.0Z
+# ***de_DE: "Vorname"***
+#, core
+#, autotranslation: {"time":1547726815}
+msgid "models.User.firstname.header"
+msgstr "first name"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:56.0Z
+# ***de_DE: "Ihr Vorname"***
+#, core
+#, autotranslation: {"time":1547726816}
+msgid "models.User.firstname.tooltip"
+msgstr "Your first name"
+
+#: ***Automated Translation*** 2019-01-17T12:06:56.0Z
+# ***de_DE: "Gruppe"***
+#, autotranslation: {"time":1547726816}
+msgid "models.User.group_id.header"
+msgstr "group"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:56.0Z
+# ***de_DE: "Nachname"***
+#, core
+#, autotranslation: {"time":1547726816}
+msgid "models.User.lastname.header"
+msgstr "Surname"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:57.0Z
+# ***de_DE: "Ihr Nachname"***
+#, core
+#, autotranslation: {"time":1547726817}
+msgid "models.User.lastname.tooltip"
+msgstr "Your last name"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:57.0Z
+# ***de_DE: "Passwort"***
+#, core
+#, autotranslation: {"time":1547726817}
+msgid "models.User.password.header"
+msgstr "password"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:57.0Z
+# ***de_DE: "Ihr Passwort"***
+#, core
+#, autotranslation: {"time":1547726817}
+msgid "models.User.password.tooltip"
+msgstr "Your Password"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:57.0Z
+# ***de_DE: "Benutzername"***
+#, core
+#, autotranslation: {"time":1547726817}
+msgid "models.User.username.header"
+msgstr "username"
+
+#: ***Global Eeecore Key***
+#: ***Automated Translation*** 2019-01-17T12:06:58.0Z
+# ***de_DE: "Ihr Benutzername"***
+#, core
+#, autotranslation: {"time":1547726818}
+msgid "models.User.username.tooltip"
+msgstr "Your Username"
+
+#: ***Automated Translation*** 2019-01-17T12:06:58.0Z
+# ***de_DE: "Verifiziert"***
+#, autotranslation: {"time":1547726818}
+msgid "models.User.verified.header"
+msgstr "Verified"
+

@@ -1,0 +1,121 @@
+
+.buttonPlace {
+    text-align: right;
+    padding-top: 1em;
+}
+
+.alignLeft {
+    text-align: left;
+}
+
+.toLeft {
+    float: left;
+}
+
+.phoneBox {
+    width: 80%;
+    float: right;
+}
+
+.prefixBox {
+    position: relative;
+    top: -10px;
+}
+
+.prefixSelect {
+    width: 100%;
+}
+
+.phoneNumberBox {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.hardwareBox {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.integrationTextField {
+    margin-top: 25px;
+}
+
+.emailTextField {
+    margin-bottom: 3px !important;
+}
+
+.terminTextField {
+    margin-top: 0;
+}
+
+.ocrHelperContener {
+    position: relative;
+}
+
+.showOcrMenu {
+    position: absolute;
+    top: 45px;
+    right: 0;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.addressContainer {
+    margin-top: 20px;
+    padding: 10px 30px 50px;
+    background-color: #222;
+    border-radius: 10px;
+    position: relative;
+}
+
+.autocompleteSearchPlace {
+    max-width: 400px;
+}
+
+.autocompleteDropdownContainer {
+    position: absolute;
+    top: 85px;
+    left: 0;
+    width: 100%;
+    z-index: 200;
+    padding: 0 30px;
+}
+
+.autocompleteLoading {
+    padding: 10px;
+    font-size: 0.8em;
+    background: rgba(0, 0, 0, 0);
+    position: relative;
+    border-radius: 5px;
+}
+
+.progressBarcontainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 10;
+}
+
+.progressBar {
+    position: relative;
+    top: 50%;
+    left: 2.5%;
+    margin-top: -1px;
+    width: 95%;
+}
+
+.suggestionItemActive {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 10px;
+    color: #ae9978;
+    cursor: pointer;
+}
+
+.suggestionItem {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 10px;
+    cursor: pointer;
+}

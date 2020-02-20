@@ -1,0 +1,250 @@
+.gridRow {
+    height: 30px !important;
+}
+
+.gridCell > span {
+    font-size: 0.75rem !important;
+    color: #fff;
+}
+
+.gridRowNoActive td,
+.gridRowNoActive td:not(:last-child) span {
+    color: #999 !important;
+}
+
+.table tbody tr:hover td span {
+    color: #333;
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    -ms-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+}
+
+.table th,
+.table td {
+    padding: 10px;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+    color: #fff;
+    border-color: #444;
+    font-size: 0.85em;
+}
+
+.gridRowNoActive:hover td,
+.gridRowNoActive:hover td:not(:last-child) span {
+    color: #333 !important;
+}
+
+.gridRow a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.table {
+    background: rgba(0, 0, 0, 0) !important;
+    color: #fff;
+    font-size: 1.1em;
+}
+
+.table thead th {
+    background: rgba(0, 0, 0, 0.9);
+    font-size: 0.9em;
+}
+
+.table tr:nth-child(odd) {
+    background: rgba(0, 0, 0, 0.1) !important;
+}
+
+.table th:first-child,
+.table td:first-child {
+    padding-left: 24px;
+}
+
+.table th:last-child,
+.table td:last-child {
+    padding-right: 24px;
+}
+
+.table tbody tr:hover td {
+    background: rgba(255, 255, 255, 0.8) !important;
+    color: #333;
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    -ms-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+}
+
+.gridCell > a {
+    color: #fff;
+    font-size: 0.8rem !important;
+}
+
+.gridRow:hover a {
+    text-decoration: underline;
+}
+
+.gridCheckbox {
+    height: 30px !important;
+}
+
+.gridCell {
+    font-size: 0.75rem !important;
+}
+
+.root {
+    width: 100%;
+    background: transparent !important;
+}
+
+.root .botton {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.tableWrapper {
+    display: block;
+    position: relative;
+    overflow-x: auto;
+}
+
+.overlay {
+    background: #333;
+    height: 200px;
+    width: 100%;
+}
+
+.progressBarcontainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0);
+    z-index: 10;
+}
+
+.progressBar {
+    position: relative;
+    top: 50%;
+    left: 2.5%;
+    margin-top: -1px;
+    width: 95%;
+}
+
+.tableSortLabelIcon {
+    font-size: 1em !important;
+    color: #ac9974 !important;
+}
+
+.tableSortLabelIcon_hidden {
+    display: none !important;
+}
+
+.tableSortLabelRoot {
+    color: #fff !important;
+}
+
+.tableSortLabelRoot:hover {
+    color: #ac9974 !important;
+}
+
+.tableSortLabelActive {
+    color: #ac9974 !important;
+}
+
+.pagination {
+    color: rgba(255, 255, 255, 0.7) !important;
+    border-bottom: 0 !important;
+}
+
+.pagination button {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.toolbar {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.actions {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.caption {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.spacer {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.input {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.selectRoot {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.select {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.selectIcon {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.rootDialog {
+    background: rgba(0, 0, 0, 0.8);
+    position: relative;
+}
+
+.rootDialogTitle {
+    background: rgba(205, 192, 157, 0.6);
+    position: relative;
+    margin: 0 0 10px;
+    padding: 0 !important;
+    color: #fff;
+    overflow: hidden;
+}
+
+.rootDialogTitle h2 {
+    margin: 0;
+    padding: 15px 24px 12px !important;
+    color: #fff;
+    font-weight: 300;
+}
+
+.IconButton {
+    color: #fff !important;
+    position: absolute !important;
+    top: 2px;
+    right: 0;
+}
+
+.rootDialogActions {
+    background: rgba(0, 0, 0, 0);
+    position: relative;
+    margin: 0 !important;
+    padding: 10px 24px;
+    border-top: solid 1px #444;
+}
+
+.paper {
+    padding: 0;
+    background-color: #111 !important;
+    border: solid 1px #222;
+    width: 100%;
+    position: relative;
+}
+
+.box {
+    padding-top: 0 !important;
+    margin-top: 20px !important;
+    position: relative;
+}
+
+.box p {
+    text-align: left;
+    padding: 10px 0;
+}

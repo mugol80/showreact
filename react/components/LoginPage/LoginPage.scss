@@ -1,0 +1,90 @@
+.loginPage {
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.loginPage .paper {
+    padding: 1em;
+    background: rgba(0, 0, 0, 0.8);
+    border: solid 1px #333;
+    width: 100%;
+    position: relative;
+}
+
+.loginPage .logoContainer {
+    display: inline-block;
+    max-width: 100px;
+}
+
+@media (max-width: 600px) {
+    .loginPage .logoContainer {
+        padding-top: 40px;
+        max-width: 50px;
+    }
+}
+
+.loginPage .asIcon {
+    position: absolute;
+    top: -28px;
+    left: 50%;
+    background-color: #7d5945;
+    margin-left: -26px;
+    cursor: auto;
+    z-index: 20;
+    color: #ae9978;
+}
+
+.loginPage .asIcon:hover {
+    background-color: #7d5945;
+}
+
+.loginPage .forgottenPassword {
+    text-align: right;
+}
+
+.loginPage .buttonGray {
+    padding: 3px;
+}
+
+.loginPage .small {
+    font-size: 1.1em;
+}
+
+.progressBarcontainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.75);
+    z-index: 10;
+}
+
+.progressBar {
+    position: relative;
+    top: 50%;
+    left: 2.5%;
+    margin-top: -1px;
+    width: 95%;
+}
+
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 1);
+    z-index: 10;
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+}

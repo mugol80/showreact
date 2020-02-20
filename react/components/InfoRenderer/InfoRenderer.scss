@@ -1,0 +1,171 @@
+$input-label-color: #ae9978;
+
+.moreinfo {
+    padding: 0.3em 0;
+    width: auto !important;
+    height: auto !important;
+    color: $input-label-color !important;
+    margin: 0.3em 0 0;
+    cursor: pointer;
+}
+
+.rootDialog {
+    background: rgba(0, 0, 0, 0.8);
+    position: relative;
+}
+
+.rootDialogTitle {
+    background: rgba(205, 192, 157, 0.6);
+    position: relative;
+    margin: 0 0 10px;
+    padding: 0 !important;
+    color: #fff;
+    overflow: hidden;
+}
+
+.rootDialogTitle h2 {
+    margin: 0;
+    padding: 15px 24px 12px !important;
+    color: #fff;
+    font-weight: 300;
+}
+
+.IconButton {
+    color: #fff !important;
+    position: absolute !important;
+    top: 6px;
+    right: 0;
+}
+
+.rootDialogActions {
+    background: rgba(0, 0, 0, 0);
+    position: relative;
+    margin: 0 !important;
+    padding: 10px 24px;
+    border-top: solid 1px #444;
+}
+
+.paper {
+    padding: 0;
+    background-color: #111 !important;
+    border: solid 1px #222;
+    width: 100%;
+    position: relative;
+}
+
+.table {
+    background: rgba(0, 0, 0, 0.5) !important;
+    color: #fff;
+    font-size: 1.1em;
+}
+
+.table th,
+.table td {
+    padding: 10px;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+    color: #fff;
+    border-color: #444;
+    font-size: 0.85em;
+    width: 50%;
+}
+
+.table thead th {
+    background: rgba(0, 0, 0, 0.9);
+    font-size: 0.9em;
+}
+
+.rootTableCell {
+    text-align: right !important;
+}
+
+.defaultCheckbox {
+    color: #eee !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+.disabledCheckbox {
+    color: #eee !important;
+}
+
+.checkedCheckbox {
+    color: #eee !important;
+}
+
+.box {
+    padding-top: 0 !important;
+    margin-top: 20px !important;
+}
+
+.modules {
+    padding-top: 0 !important;
+    margin-top: 20px !important;
+}
+
+.googleMapsContainer {
+    border: solid 6px #333;
+    position: relative;
+    padding-bottom: 40%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+.hidegoogleMapsContainer {
+    display: none;
+}
+
+.saveMarkersBtn {
+    color: #ae9978;
+    cursor: pointer;
+}
+
+.saveMarkersBtn:hover {
+    color: #ae9978;
+    cursor: pointer;
+}
+
+.saveMarkersBtn i {
+    font-size: 1em;
+}
+
+.googleMapsInfo {
+    font-size: 0.8em;
+}
+
+.noMapInfo {
+    border: solid 6px #333;
+    position: relative;
+    padding: 10px;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+}
+
+.noMapInfo p {
+    text-align: center;
+}
+
+.addMarkerManually {
+    font-size: 0.8em;
+    color: #d2cdc5;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 5px 10px;
+    border: solid 1px #a4926f;
+    background-color: #a4926f;
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    -o-transition: all 0.1s linear;
+    -ms-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.addMarkerManually:hover {
+    background-color: transparent;
+    color: #fff;
+    text-decoration: none;
+}

@@ -1,0 +1,77 @@
+$input-label-color: #ae9978;
+
+.myContentsPage {
+    background: #000;
+}
+
+.moreinfo {
+    padding: 0.3em 0;
+    width: auto !important;
+    height: auto !important;
+    color: $input-label-color;
+    margin: 0.3em 0 0;
+    cursor: pointer;
+}
+
+.rootDialog {
+    background: rgba(0, 0, 0, 0.8);
+    position: relative;
+}
+
+.rootDialogTitle {
+    background: rgba(205, 192, 157, 0.6);
+    position: relative;
+    margin: 0 0 10px;
+    padding: 0 !important;
+    color: #fff;
+    overflow: hidden;
+}
+
+.rootDialogTitle h2 {
+    margin: 0;
+    padding: 15px 24px 12px !important;
+    color: #fff;
+    font-weight: 300;
+}
+
+.IconButton {
+    color: #fff !important;
+    position: absolute !important;
+    top: 8px;
+    right: 0;
+}
+
+.box {
+    padding-top: 0 !important;
+    margin-top: 20px !important;
+}
+
+.paper {
+    padding: 0;
+    background-color: #111 !important;
+    border: solid 1px #222;
+    width: 100%;
+    position: relative;
+}
+
+.inBox {
+    padding: 20px 0 10px;
+}
+
+.inBox h2 {
+    margin: 0;
+    padding: 15px 0 12px !important;
+    color: #fff;
+    font-size: 1.1em;
+    font-weight: 300;
+}
+
+.showDialog {
+    overflow: hidden;
+    text-align: left;
+    padding: 10px 0;
+}
+
+.toCenter {
+    text-align: center;
+}

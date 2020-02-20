@@ -1,0 +1,56 @@
+.playerWrapper {
+    position: relative;
+    padding-top: calc(100vh - 80px) !important /* Player ratio: 100 / (1280 / 720) */
+}
+
+.reactPlayer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100% !important;
+    width: 100% !important;
+    max-width: 100vw;
+    max-height: 100vh;
+}
+
+.pageBox {
+    overflow: hidden;
+
+    button {
+        float: left;
+    }
+}
+
+.goToPage {
+    width: 80px;
+    float: right;
+}
+
+.pageControl {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.pageContainer > div {
+    display: none;
+}
+
+.pageContainer > canvas {
+    max-width: calc(100vw - 50px);
+    max-height: calc(100vh - 120px);
+    width: auto !important;
+    height: auto !important;
+}
+
+.center {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.full {
+    display: block;
+}
+
+.pageBox button.button:disabled {
+    color: rgba(255, 255, 255, 0.26);
+}

@@ -1,0 +1,158 @@
+
+.dashboard {
+    position: relative;
+    z-index: 2;
+
+    .menuContainer {
+        display: block;
+        width: 100%;
+        background: #000;
+        background: rgba(42, 47, 49, 1);
+        clear: both;
+        overflow: hidden;
+        position: fixed;
+        z-index: 100;
+    }
+
+    .logoContainer {
+        float: left;
+        padding: 10px 20px;
+        margin: 0;
+        background: rgba(42, 47, 49, 1);
+        max-width: 190px;
+    }
+
+    .menuButtonContainer {
+        width: 61px;
+        height: 61px;
+        float: right;
+        margin-left: 0;
+        position: relative;
+        background: #ae9978;
+        cursor: pointer;
+        -webkit-transition: all 0.25s linear;
+        -moz-transition: all 0.25s linear;
+        -o-transition: all 0.25s linear;
+        -ms-transition: all 0.25s linear;
+        transition: all 0.25s linear;
+
+        .menuButton {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #000;
+            -webkit-transition: all 0.25s linear;
+            -moz-transition: all 0.25s linear;
+            -o-transition: all 0.25s linear;
+            -ms-transition: all 0.25s linear;
+            transition: all 0.25s linear;
+        }
+    }
+
+    .menuButtonContainer:hover {
+        background: #7d5945;
+    }
+
+    .menuButtonContainer:hover .menuButton {
+        color: #ae9978;
+    }
+
+    .contentContainer {
+        padding-top: 61px;
+        position: relative;
+        z-index: 1;
+    }
+
+    form h2 {
+        text-transform: uppercase;
+        font-size: 20px;
+        margin: 25px 0 0;
+        padding: 20px 0 0;
+        color: #fff;
+        font-weight: 300;
+        line-height: 0.9em;
+    }
+
+    .iconConatiner {
+        position: absolute;
+        top: 17px;
+        left: 180px;
+    }
+}
+
+//Full site menu---------------------------------
+.fullMenuListContainer {
+    width: 400px;
+    max-width: 80%;
+    background: #333 !important;
+}
+
+.fullMenuList {
+    padding: 40px 0;
+    margin: 0;
+
+    .fullMenuListLi {
+        padding: 0;
+        margin: 0;
+    }
+
+    .fullMenuListLi a {
+        width: 100%;
+        display: block;
+        padding: 0.8em 20px;
+        margin: 0;
+        text-decoration: none;
+        color: #fafafa;
+        -webkit-transition: all 0.25s linear;
+        -moz-transition: all 0.25s linear;
+        -o-transition: all 0.25s linear;
+        -ms-transition: all 0.25s linear;
+        transition: all 0.25s linear;
+    }
+
+    .fullMenuListLi a:hover,
+    .fullMenuListLi a.active {
+        background: #111;
+        color: #fafafa;
+    }
+
+    .fullMenuListLi a span {
+        vertical-align: middle;
+        display: inline-block;
+        padding-right: 35px;
+        color: #ae9978;
+    }
+}
+
+.fullMenuList.personMenu {
+    border-top: solid 1px #222;
+}
+
+.fullSideProgressBarcontainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.75);
+    z-index: 10;
+}
+
+.progressBar {
+    position: relative;
+    top: 50%;
+    left: 2.5%;
+    margin-top: -1px;
+    width: 95%;
+}
+
+.background {
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+}

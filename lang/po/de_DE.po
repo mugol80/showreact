@@ -1,0 +1,1665 @@
+# gastronovi GmbH & Co. KG web application on Eeecore Engine
+# Copyright (C) 2013 Alnovi
+# This file is distributed under the same license as the PACKAGE package.
+# gastronovi GmbH & Co. KG <admin@gastronovi.de>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: gastronovi GmbH & Co. KG\n"
+"Report-Msgid-Bugs-To: admin@gastronovi.de\n"
+"POT-Creation-Date: 2009-11-12 16:00+0100\n"
+"PO-Revision-Date: 2009-11-12 17:00+0100\n"
+"Last-Translator: Eeecore User <info@alnovi.de>\n"
+"Language-Team: Eeecore Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+# Admin menu title for Contents
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.Admin.menu.Contents.header"
+msgstr "Inhalt"
+
+#: Admin menu descriptive tooltip for Contents
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.Admin.menu.Contents.tooltip"
+msgstr "Seiten, Inhalte, Inhaltstypen und Shopartikel"
+
+# Admin menu title for Users
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.Admin.menu.Users.header"
+msgstr "Benutzer"
+
+#: Admin menu descriptive tooltip for Users
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.Admin.menu.Users.tooltip"
+msgstr "Benutzer und Gruppen"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.Error.privileges.denied"
+msgstr "Zugriff verweigert. Bitte klicken Sie <a href=\"/\">hier</a> um die Seite neu zu laden und sich ggf. neu anzumelden."
+
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.Site.title"
+msgstr "gastronovi Sales"
+
+#: /core/react/GridPanel/v1/components/GridHeader/GridHeader.js
+msgid "globals.actions"
+msgstr "Aktionen"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "globals.autocomplete.label.searchAddress"
+msgstr "Adresse suchen ..."
+
+#: /core/react/GridPanel/v1/containers/GridPanel.js
+#: /core/react/GridPanel/v1/components/GridHeader/GridHeader.js
+msgid "globals.delete"
+msgstr "Löschen"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.error"
+msgstr "Fehler"
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "globals.fields.active.header"
+msgstr "Aktiv"
+
+msgid "globals.fields.auth.header"
+msgstr "Verifizierungsschlüssel"
+
+msgid "globals.fields.class_id.header"
+msgstr "Klassen"
+
+msgid "globals.fields.created_at.header"
+msgstr "Erstellt am"
+
+msgid "globals.fields.created_by.header"
+msgstr "Erstellt von"
+
+msgid "globals.fields.ctime.header"
+msgstr "Erstellzeit"
+
+msgid "globals.fields.deleted_at.header"
+msgstr "Gelöscht am"
+
+msgid "globals.fields.description.header"
+msgstr "Beschreibung"
+
+msgid "globals.fields.email.header"
+msgstr "E-Mail"
+
+msgid "globals.fields.file_id.header"
+msgstr "Datei"
+
+msgid "globals.fields.firstname.header"
+msgstr "Vorname"
+
+msgid "globals.fields.group_id.header"
+msgstr "Gruppen"
+
+msgid "globals.fields.id.header"
+msgstr "ID"
+
+msgid "globals.fields.id.tooltip"
+msgstr "ID"
+
+msgid "globals.fields.keywords.header"
+msgstr "Schlüsselwörter"
+
+msgid "globals.fields.lastname.header"
+msgstr "Nachname"
+
+msgid "globals.fields.level.header"
+msgstr "Ebene"
+
+msgid "globals.fields.lft.header"
+msgstr "Lft"
+
+msgid "globals.fields.name.header"
+msgstr "Name"
+
+msgid "globals.fields.original.header"
+msgstr "Original"
+
+msgid "globals.fields.password.header"
+msgstr "Passwort"
+
+msgid "globals.fields.public.header"
+msgstr "Öffentlich"
+
+msgid "globals.fields.rgt.header"
+msgstr "Rgt"
+
+msgid "globals.fields.size.header"
+msgstr "Größe"
+
+msgid "globals.fields.slug.header"
+msgstr "Slug"
+
+msgid "globals.fields.status.header"
+msgstr "Status"
+
+msgid "globals.fields.title.header"
+msgstr "Titel"
+
+msgid "globals.fields.title.tooltip"
+msgstr "Titel"
+
+msgid "globals.fields.type.header"
+msgstr "Art"
+
+msgid "globals.fields.updated_at.header"
+msgstr "Aktualisiert am"
+
+msgid "globals.fields.updated_by.header"
+msgstr "Aktualisiert von"
+
+msgid "globals.fields.username.header"
+msgstr "Benutzername"
+
+msgid "globals.fields.verified.header"
+msgstr "Bestätigt"
+
+#: ***Obsolete Key***
+#, obsolete
+msgid "globals.googlemaps.addMarkerManualy"
+msgstr "Marker-Handbuch hinzufügen"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+msgid "globals.googlemaps.cantFindAddress"
+msgstr "Die Adresse kann auf der Karte nicht gefunden werden."
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.googlemaps.cantFindAddressTo"
+msgstr "Can't find address to"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+msgid "globals.googlemaps.clickMapToAddMarker"
+msgstr "Klicken Sie auf die Karte, um eine Markierung hinzuzufügen"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/NewLeadForm/NewLead.js
+msgid "globals.googlemaps.clickMarkerToRemove"
+msgstr "Klicken Sie auf eine unnötige Markierung, um sie zu entfernen"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/NewLeadForm/NewLead.js
+msgid "globals.googlemaps.dragAndDropMarker"
+msgstr "Ziehen Sie die Markierung an die richtige Position und legen Sie sie dort ab"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.googlemaps.findMarkers"
+msgstr "Find markers"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.googlemaps.foundMarkers"
+msgstr "Found markers"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.googlemaps.info.contactNotOnMap"
+msgstr "Kontakte sind auf der Karte nicht sichtbar"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.googlemaps.info.contactsNotOnMap"
+msgstr "Kontakte werden auf der Karte nicht angezeigt"
+
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+msgid "globals.googlemaps.lead.infoTitle"
+msgstr "Karte"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.googlemaps.leadWithoutMarkers"
+msgstr "Lead without markers"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.googlemaps.mapInformation"
+msgstr "Karteninformation"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.googlemaps.markersOnMap"
+msgstr "Markierungen auf der Karte"
+
+#: /react/containers/NewLeadForm/NewLead.js
+msgid "globals.googlemaps.noAddressFind"
+msgstr "Keine Anzeige auf der Karte möglich, die angegebene Adresse konnte nicht gefunden werden. Sie können die Markierung manuell hinzufügen, indem Sie auf die Karte klicken."
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.googlemaps.saveMarkers"
+msgstr "Save markers"
+
+#: /core/react/GridPanel/v1/components/GridToolbar/GridToolbar.js
+msgid "globals.grid.changes.reset"
+msgstr "Änderungen zurücksetzen"
+
+#: /core/react/GridPanel/v1/components/GridToolbar/GridToolbar.js
+msgid "globals.grid.changes.save"
+msgstr "Änderungen speichern"
+
+#: /core/react/GridPanel/v1/containers/GridPanel.js
+msgid "globals.grid.delete.description"
+msgstr "Löschen bestätigen"
+
+#: /core/react/GridPanel/v1/containers/GridPanel.js
+msgid "globals.grid.delete.title"
+msgstr "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten?"
+
+#: /react/containers/Grid/GridPanel.js
+msgid "globals.grid.download.button"
+msgstr "Herunterladen"
+
+#: /react/containers/Grid/GridPanel.js
+msgid "globals.grid.download.processing"
+msgstr "Datei wird erstellt..."
+
+#: /react/containers/Grid/GridPanel.js
+msgid "globals.grid.download.success"
+msgstr "Datei erfolgreich erstellt."
+
+#: /react/containers/Grid/GridPanel.js
+msgid "globals.grid.download.title"
+msgstr "Datei herunterladen"
+
+#: /react/containers/Grid/GridPanel.js
+msgid "globals.grid.pagination.displayedrows.title"
+msgstr "[_1|_1]-[_2|_2] von [_3|_3]"
+
+#: /react/containers/Grid/GridPagination/GridPagination.js
+msgid "globals.grid.pagination.firstpage.title"
+msgstr "Erste Seite"
+
+#: /react/containers/Grid/GridPagination/GridPagination.js
+msgid "globals.grid.pagination.lastpage.title"
+msgstr "Vorherige Seite"
+
+#: /react/containers/Grid/GridPagination/GridPagination.js
+msgid "globals.grid.pagination.nextpage.title"
+msgstr "Nächste Seite"
+
+#: /react/containers/Grid/GridPagination/GridPagination.js
+msgid "globals.grid.pagination.prevpage.title"
+msgstr "Letzte Seite"
+
+#: /react/containers/Grid/GridPanel.js
+msgid "globals.grid.pagination.rowsperpage.title"
+msgstr "Einträge pro Seite:"
+
+#: /core/react/GridPanel/v1/components/GridToolbar/GridToolbar.js
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.grid.search.placeholder"
+msgstr "Suche"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+msgid "globals.grid.toolbar.download.csv.tooltip"
+msgstr "CSV herunterladen"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+msgid "globals.grid.toolbar.download.refresh.tooltip"
+msgstr "Aktualisieren"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+msgid "globals.grid.toolbar.download.resend.title"
+msgstr "Erneut senden"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+msgid "globals.grid.toolbar.download.resend.tooltip"
+msgstr "Ausgewählte Einträge erneut senden"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+msgid "globals.grid.toolbar.download.reset.tooltip"
+msgstr "Werte zurücksetzen"
+
+#: /react/containers/Grid/GridToolbar/GridToolbar.js
+msgid "globals.grid.toolbar.download.save.tooltip"
+msgstr "Änderungen speichern"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+msgid "globals.grid.toolbar.showOnMap.tooltip"
+msgstr "Auf der Karte anzeigen"
+
+#: Language translation for english
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.languages.english"
+msgstr "Englisch"
+
+#: Language translation for french
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.languages.french"
+msgstr "Französisch"
+
+#: Language translation for german
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.languages.german"
+msgstr "Deutsch"
+
+#: Language translation for italian
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.languages.italian"
+msgstr "Italienisch"
+
+#: /core/react/GridPanel/v1/components/GridToolbar/GridToolbar.js
+msgid "globals.selected"
+msgstr "Ausgewählt"
+
+#: /react/components/ShowInfoHeader/ShowInfoHeader.js
+msgid "globals.showinfoheader.campaignInfoTitle"
+msgstr "Dieser Lead wird erfasst für:"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.submit"
+msgstr "Senden"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "globals.success"
+msgstr "Erfolgreich"
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.affiliate.widget.incompletevalues"
+msgstr "Die Daten sind nicht vollständig."
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.affiliate.widget.notfound"
+msgstr "Kundennummer nicht gefunden"
+
+#: /react/store/sagas/contents.js
+#: /react/store/sagas/googleMaps.js
+#: /react/store/sagas/lead.js
+#: /react/store/sagas/newLead.js
+#: /react/store/sagas/ocr.js
+#: /react/store/sagas/settings.js
+#: /react/store/sagas/users.js
+msgid "locals.connecting.error"
+msgstr "Verbindungsfehler"
+
+#: /react/components/ContentBox/ContentBox.js
+msgid "locals.content.loadpdf"
+msgstr "PDF wird geladen..."
+
+#: /react/components/ContentMoreRenderer/ContentMoreRenderer.js
+#: /react/components/InfoRenderer/InfoRenderer.js
+msgid "locals.content.moreinfo"
+msgstr "Vollbild anzeigen"
+
+#: /react/components/ContentBox/ContentBox.js
+msgid "locals.content.next"
+msgstr "Weiter"
+
+#: /react/components/ContentBox/ContentBox.js
+msgid "locals.content.prev"
+msgstr "Zurück"
+
+#: /react/containers/ContentPage/ContentPage.js
+msgid "locals.content.title.contents"
+msgstr "Meine Inhalte"
+
+#: /react/containers/ContentPage/ContentPage.js
+msgid "locals.content.titlesmall"
+msgstr "Präsentationsmaterial zu gastronovi Office"
+
+#: /react/components/Dashboard/Dashboard.js
+msgid "locals.dashboard.menu.addlead"
+msgstr "Lead aufnehmen"
+
+#: /react/components/Dashboard/Dashboard.js
+msgid "locals.dashboard.menu.allleads"
+msgstr "Alle Leads"
+
+#: /react/components/Dashboard/Dashboard.js
+msgid "locals.dashboard.menu.home"
+msgstr "Übersicht"
+
+#: /react/components/Dashboard/Dashboard.js
+msgid "locals.dashboard.menu.logout"
+msgstr "Abmelden"
+
+#: /react/components/Dashboard/Dashboard.js
+msgid "locals.dashboard.menu.myleads"
+msgstr "Meine Leads"
+
+#: /react/components/Dashboard/Dashboard.js
+msgid "locals.dashboard.menu.youraccount"
+msgstr "Benutzer"
+
+#: /react/components/Dashboard/Dashboard.js
+msgid "locals.dashboard.menu.yourcontents"
+msgstr "Meine Inhalte"
+
+#: /app/modules/default/controllers/IndexController.php
+msgid "locals.helloworld.text"
+msgstr "Hallo Welt, [_1|_1]!"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+msgid "locals.leadpage.tablecolumn.city"
+msgstr "Stadt"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.tablecolumn.company"
+msgstr "Betriebsname"
+
+#: /react/containers/ContentPage/ContentPage.js
+msgid "locals.leadpage.tablecolumn.contentname"
+msgstr "Bezeichnung"
+
+#: /react/containers/ContentPage/ContentPage.js
+msgid "locals.leadpage.tablecolumn.contenttype"
+msgstr "Art"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+msgid "locals.leadpage.tablecolumn.country"
+msgstr "Land"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.tablecolumn.createdate"
+msgstr "Erstellt am"
+
+#: /react/containers/ContentPage/ContentPage.js
+msgid "locals.leadpage.tablecolumn.download"
+msgstr "Download"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.tablecolumn.email"
+msgstr "E-Mail"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+msgid "locals.leadpage.tablecolumn.lostreason"
+msgstr "Ablehnungsgrund"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.tablecolumn.name"
+msgstr "Ansprechpartner"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.tablecolumn.phone"
+msgstr "Telefon"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.tablecolumn.recommended"
+msgstr "Empfohlen durch"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.tablecolumn.salesman"
+msgstr "Vertriebler"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+msgid "locals.leadpage.tablecolumn.salesmanEmail"
+msgstr "E-Mail des Vertrieblers"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.tablecolumn.stage"
+msgstr "Stufe"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+msgid "locals.leadpage.tablecolumn.street"
+msgstr "Straße"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+msgid "locals.leadpage.tablecolumn.zip"
+msgstr "PLZ"
+
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+msgid "locals.leadpage.title.allleads"
+msgstr "Alle Leads"
+
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.title.myleads"
+msgstr "Meine Leads"
+
+#: /react/containers/AllLeadsPage/AllLeadsPage.js
+msgid "locals.leadpage.titlesmall.allleadslist"
+msgstr "Übersicht über alle Leads"
+
+#: /react/containers/MyLeadPage/MyLeadPage.js
+msgid "locals.leadpage.titlesmall.yourleadslist"
+msgstr "Übersicht über meine Leads"
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.insert.error"
+msgstr "Das Eintragen ist fehlgeschlagen."
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.insert.incompletevalues"
+msgstr "Die Daten sind nicht vollständig."
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.save.success"
+msgstr ""
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.take.error"
+msgstr ""
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.browser.notcompatible"
+msgstr "Ihr Browser wird leider nicht unterstützt. Bitte nutzen Sie einen aktuelleren Browser, um auf das Formular zuzugreifen, oder melden Sie sich direkt oder per <a href=\"mailto:sales@gastronovi.com\">E-Mail</a> bei uns."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.button.back.text"
+msgstr "Zurück"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.button.submit.text"
+msgstr "Absenden"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.city.label"
+msgstr "Stadt"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.contact.label"
+msgstr "Name"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.contact_name.label"
+msgstr "Ansprechpartner"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.country_id.label"
+msgstr "Land"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.creator_email.label"
+msgstr "E-Mail des Erfassers"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.creator_name.label"
+msgstr "Name des Erfassers"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.description.label"
+msgstr "Nachricht"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.email_from.label"
+msgstr "E-Mail"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.email_from_check.label"
+msgstr "E-Mail wiederholen"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.email_from_check.validation"
+msgstr "Die Bestätigung der E-Mail-Adresse muss mit der eingegebenen E-Mail-Adresse übereinstimmen"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gender.label"
+msgstr "Anrede"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gender.miss"
+msgstr "Frau"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gender.mister"
+msgstr "Herr"
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.widget.field.gn_analytics_tracking.label"
+msgstr "Tracking"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_classification.label"
+msgstr "Einstufung"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_company_type.label"
+msgstr "Art des Betriebs"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_demo_language.label"
+msgstr "Sprache"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_department.label"
+msgstr "Bereich"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_division_id.label"
+msgstr "Zuständigkeit"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod.label"
+msgstr "Modul"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_calculation.label"
+msgstr "Kalkulation"
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.widget.field.gn_mod_campaign.label"
+msgstr "Kampagnenprodukt"
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.widget.field.gn_mod_campaign_monthly.label"
+msgstr "Gewähltes Paket"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_cashbook.label"
+msgstr "Kassenbuch"
+
+#: ***Obsolete Key***
+#, obsolete
+msgid "locals.leads.widget.field.gn_mod_customer.label"
+msgstr "Kundenkartei"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_franchise.label"
+msgstr "Franchise"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_homepage.label"
+msgstr "Homepage"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_loyalty.label"
+msgstr "Kundenbindung"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_marketing.label"
+msgstr "Marketing"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_menu.label"
+msgstr "Speisekarten"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_newsletter.label"
+msgstr "Newsletter"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_order.label"
+msgstr "Bestellsystem"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_pos.label"
+msgstr "Kassensystem"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_presentation.label"
+msgstr "Präsentation"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_purchase.label"
+msgstr "Einkaufssystem"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_reservation.label"
+msgstr "Tischreservierung"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_statistics.label"
+msgstr "Cockpit"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_stock.label"
+msgstr "Warenwirtschaft"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_mod_timetracking.label"
+msgstr "Zeiterfassung"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_partner_internal_reference.label"
+msgstr "Interne Referenz"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.gn_type_integration.label"
+msgstr "Schnittstellen"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.misc.label"
+msgstr "Sonstiges"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.name.label"
+msgstr "Betriebsname"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.phone.label"
+msgstr "Telefon"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.privacy.description"
+msgstr "Ich habe die <a href=\"PRIVACY_URL\" target=\"_blank\">Bestimmungen zum Datenschutz</a> gelesen und akzeptiert."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.privacy.label"
+msgstr "Datenschutzbestimmungen akzeptiert"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.ref.label"
+msgstr "Kundennummer"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.street.label"
+msgstr "Straße und Hausnummer"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.subject.label"
+msgstr "Betreff"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.terms.description"
+msgstr "Ich habe die <a href=\"TERMS_URL\" target=\"_blank\">Nutzungsbedingungen</a> gelesen und akzeptiert."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.terms.label"
+msgstr "Nutzungsbedingungen akzeptiert"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.field.zip.label"
+msgstr "PLZ"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.affiliate_general.button"
+msgstr "Suchen"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.affiliate_general.footer"
+msgstr "Generieren Sie einen Link zur Weiterempfehlung."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.affiliate_general.success"
+msgstr "Kundennummer erfolgreich gefunden."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.affiliate_general.title"
+msgstr "Weiterempfehlung"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.booking_contact.button"
+msgstr "Weiter"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.booking_contact.introduction"
+msgstr "Wie können wir Sie erreichen?"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.booking_general.button"
+msgstr "Weiter"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.booking_general.introduction"
+msgstr "Buchen Sie jetzt das tolle Modul!"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.booking_general.title"
+msgstr "Jetzt bestellen"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.booking_overview.button"
+msgstr "Jetzt bestellen"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.booking_overview.introduction"
+msgstr "Überprüfen Sie Ihre Angaben und schließen Sie die Bestellung ab."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.booking_overview.success"
+msgstr "Vielen Dank!\n\nSie erhalten nach wenigen Minuten Ihre Auftragsbestätigung und Ihre Zugangsdaten."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.contact_general.button"
+msgstr "Beratung anfordern"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.contact_general.footer"
+msgstr "Persönliche und kompetente Beratung oder ein individuelles Angebot."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.contact_general.success"
+msgstr "Vielen Dank für Ihre Anfrage!\n\nWir werden uns zeitnah bei Ihnen melden."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.contact_general.title"
+msgstr "Beratung"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.internal_general.button"
+msgstr "Abschicken"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.internal_general.footer"
+msgstr "Erstellen Sie einen Fall zur internen Übergabe."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.internal_general.success"
+msgstr "Der Fall wurde angelegt."
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.widget.fieldset.internal_general.success_link"
+msgstr "Der Fall #[_1|_1] wurde angelegt.<br/><br/><a href=\"[_2|_2]\" target=\"_blank\">Fall öffnen</a> oder <a href=\"#\" onclick=\"[_3|_3]\">neuen Fall erstellen</a>."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.internal_general.title"
+msgstr "Fall anlegen"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.issue_general.button"
+msgstr "Absenden"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.issue_general.footer"
+msgstr "Erstellen Sie eine Anfrage für eine Hilfestellung oder Problembeschreibung."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.issue_general.success"
+msgstr "Ihre Supportanfrage ist erfolgreich eingegangen. Wir melden uns schnellstmöglich per E-Mail bei Ihnen zurück."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.issue_general.title"
+msgstr "Supportanfrage"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.testing_general.button"
+msgstr "Weiter"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.testing_general.footer"
+msgstr "Voller Funktionsumfang, keine Zahlungsdaten oder Kündigung erforderlich - Testzugang endet nach 14 Tagen automatisch."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.testing_general.title"
+msgstr "Testen"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.testing_modules.button"
+msgstr "Testzugang anfordern"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.testing_modules.introduction"
+msgstr "Für welche Module interessieren Sie sich?"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.fieldset.testing_modules.success"
+msgstr "Ihre Anfrage ist eingegangen. Bitte bestätigen Sie jetzt Ihre E-Mail-Adresse.\n\nBitte prüfen Sie jetzt Ihren E-Mail-Posteingang. Zur Bestätigung Ihrer E-Mail-Adresse klicken Sie einfach auf den Link, den Sie in der Bestätigungs-E-Mail von gastronovi erhalten haben.\n\nÜbrigens: Wenn Sie die Bestätigungs-E-Mail nicht erhalten haben, schauen Sie bitte in Ihrem Spam-Ordner nach oder prüfen Sie, ob die E-Mail-Adresse richtig eingegeben wurde."
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.header.contact.label"
+msgstr "Kunde / Kontakt"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.header.creator.label"
+msgstr "Erfasst durch"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.header.issue.label"
+msgstr "Anliegen"
+
+#: /app/modules/default/views/scripts/leads/widget.tpl
+msgid "locals.leads.widget.header.responsible.label"
+msgstr "Weiterleitung an"
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.widget.incompletevalues"
+msgstr "Die Daten sind nicht vollständig."
+
+#: /app/modules/default/controllers/LeadsController.php
+msgid "locals.leads.widget.spam"
+msgstr "Diese Anfrage wurde als Spam identifiziert. Falls es sich um eine korrekte Eingabe handelt, melden Sie sich bitte bei uns."
+
+#: /react/containers/MainPage/MainPage.js
+msgid "locals.mainpage.boxlist.addnewlead"
+msgstr "Lead aufnehmen"
+
+#: /react/containers/MainPage/MainPage.js
+msgid "locals.mainpage.boxlist.allleads"
+msgstr "Alle Leads"
+
+#: /react/containers/MainPage/MainPage.js
+msgid "locals.mainpage.boxlist.contents"
+msgstr "Meine Inhalte"
+
+#: /react/containers/LeadOnMap/LeadOnMap.js
+#: /react/containers/MainPage/MainPage.js
+msgid "locals.mainpage.boxlist.myleads"
+msgstr "Meine Leads"
+
+#: /react/containers/MainPage/MainPage.js
+msgid "locals.mainpage.title.dashboard"
+msgstr "Übersicht"
+
+#: /react/containers/MainPage/MainPage.js
+msgid "locals.mainpage.titlesmall.what"
+msgstr "Hier finden Sie die wichtigsten Aktionen"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newlead.label.gn_mod_campaign"
+msgstr "(Definition über zusätzliche Anmerkungen, z.B. \"LIV-Paket\")"
+
+#: /react/containers/NewLeadForm/NewLead.js
+msgid "locals.newlead.msg.info"
+msgstr "Nehmen Sie hier neue Leads auf. Achten Sie bitte auf die Korrektheit der angegebenen Daten, damit eine reibungslose Kontaktaufnahme erfolgen kann."
+
+#: /react/containers/NewLeadForm/NewLead.js
+msgid "locals.newlead.title.bussinescard"
+msgstr "Visitenkarte"
+
+#: /react/containers/NewLeadForm/NewLead.js
+msgid "locals.newlead.title.newlead"
+msgstr "Lead aufnehmen"
+
+#: /react/containers/NewLeadForm/NewLead.js
+msgid "locals.newlead.titlesmall.addnewlead"
+msgstr "Aufnahme der Daten eines Interessenten"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.businesstype"
+msgstr "Art des Betriebs"
+
+#: /react/containers/NewLeadForm/NewLeadFormMessage.js
+msgid "locals.newleadform.button.addnewlead"
+msgstr "Lead aufnehmen"
+
+#: /react/containers/NewLeadForm/NewLeadFormMessage.js
+msgid "locals.newleadform.button.back"
+msgstr "Zurück zur Startseite"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.call"
+msgstr "Anruf"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.consulting"
+msgstr "Consulting"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.drucker"
+msgstr "Drucker"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.email"
+msgstr "Abweichende E-Mail-Adresse"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.equipment"
+msgstr "EC-Geräte"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.header.hardware"
+msgstr "Hardware"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.header.name"
+msgstr "Name und Art des Betriebes"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.header.termin"
+msgstr "Termin"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.header.wishes"
+msgstr "Nächste Aktivitäten/Wünsche"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.information"
+msgstr "Infomaterial"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.installation"
+msgstr "Vor-Ort-Installation"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.integration"
+msgstr "Integration"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.miscellaneous"
+msgstr "Sonstiges"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.mobiles"
+msgstr "Mobiles"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.network"
+msgstr "Netzwerk"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.no"
+msgstr "Nein"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.numberofbranches"
+msgstr "Anzahl der Filialen/Betriebe"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.offer"
+msgstr "Angebot"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.position"
+msgstr "Position im Betrieb"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.starttermin"
+msgstr "Starttermin"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.tablets"
+msgstr "Tablets"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.termin"
+msgstr "Vor-Ort-Termin"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.terminals"
+msgstr "Terminals"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.training"
+msgstr "Vor-Ort-Schulung"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.trial"
+msgstr "Testzugang"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.campaign.yes"
+msgstr "Ja"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.city"
+msgstr "Stadt"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.company"
+msgstr "Betriebsname"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.country"
+msgstr "Land"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.description"
+msgstr "Zusätzliche Anmerkungen"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.email"
+msgstr "E-Mail"
+
+#: /app/modules/default/controllers/LeadsController.php
+#: /react/components/InfoRenderer/ShowLeadLayout.js
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.internalreference"
+msgstr "Interne Referenz"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.modules"
+msgstr "An welchen Modulen besteht Interesse?"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.name"
+msgstr "Ansprechpartner"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.phone"
+msgstr "Telefon"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.selectbusinesstype"
+msgstr "Betriebsart wählen"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.selectcountry"
+msgstr "Land wählen"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.newleadform.selectpartner"
+msgstr "Vertriebspartner"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.send"
+msgstr "Lead speichern"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.street"
+msgstr "Straße"
+
+#: /react/store/sagas/newLead.js
+msgid "locals.newleadform.success"
+msgstr "Der Lead wurde erfolgreich eingetragen."
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: /react/containers/NewLeadForm/NewLeadFormMessage.js
+msgid "locals.newleadform.title"
+msgstr "Kontaktdaten des Leads"
+
+#: /react/containers/NewLeadForm/NewLeadForm.js
+msgid "locals.newleadform.zip"
+msgstr "PLZ"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.all.text"
+msgstr "Alle"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.bar.text"
+msgstr "Bar & Club"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.cafe.text"
+msgstr "Café"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.camping.text"
+msgstr "Camping"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.foodtruck.text"
+msgstr "Foodtruck"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.franchise.text"
+msgstr "Franchise"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.hotel.text"
+msgstr "Hotel"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.other.text"
+msgstr "Andere"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.restaurant.text"
+msgstr "Restaurant"
+
+#: /app/modules/default/views/scripts/references/widget.tpl
+msgid "locals.references.widget.companytype.snack.text"
+msgstr "Imbiss"
+
+#: /react/containers/Settings/Settings.js
+msgid "locals.settings.fairListLabel"
+msgstr "Messe"
+
+#: /react/containers/Settings/Settings.js
+msgid "locals.settings.fairsSourceLabel"
+msgstr "Erfassen von Leads für eine Messe"
+
+#: /react/components/Dashboard/Dashboard.js
+#: /react/containers/Settings/Settings.js
+msgid "locals.settings.settingsWindowTitle"
+msgstr "Einstellungen"
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.buttonchangepassword"
+msgstr "Passwort ändern"
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.changeyourdata"
+msgstr "Daten ändern"
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.confirmpassword"
+msgstr "Passwort bestätigen"
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.currentpassword"
+msgstr "Geben Sie Ihr aktuelles Passwort ein, um die Änderung Ihrer Daten zu bestätigen."
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.email"
+msgstr "E-Mail"
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.msg"
+msgstr "Hier sehen Sie Ihre aktuellen Daten. Sie können diese Daten jederzeit ändern."
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.name"
+msgstr "Name"
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.newpassword"
+msgstr "Neues Passwort"
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.save"
+msgstr "Speichern"
+
+#: /react/store/sagas/users.js
+msgid "locals.users.account.sendemailregister"
+msgstr "Es wurde eine E-Mail mit den weiteren Schritten versendet."
+
+#: /react/store/sagas/users.js
+msgid "locals.users.account.sendemailwithpassword"
+msgstr "Es wurde eine E-Mail mit den weiteren Schritten versendet."
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.title"
+msgstr "Ihr Zugang"
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.titlechangeyourpassword"
+msgstr "Password ändern"
+
+#: /react/containers/AccountForm/AccountForm.js
+msgid "locals.users.account.titlesmall"
+msgstr "Ihre aktuellen Daten"
+
+#: /react/store/sagas/users.js
+msgid "locals.users.account.yourdatawassaved"
+msgstr "Ihre Daten wurden gespeichert."
+
+#: /react/store/sagas/settings.js
+#: /react/store/sagas/users.js
+msgid "locals.users.account.yourpasswordwaschanged"
+msgstr "Ihr Passwort wurde geändert."
+
+#: /react/containers/AskPasswordForm/AskPasswordForm.js
+#: /react/containers/RegisterForm/NoPartnerId.js
+#: /react/containers/RegisterForm/RegisterFormMessage.js
+msgid "locals.users.askpassword.backtologin"
+msgstr "Zurück zur Anmeldung"
+
+#: /react/containers/RegisterForm/NoPartnerId.js
+msgid "locals.users.askpassword.next"
+msgstr "weiter"
+
+#: /react/components/LoginPage/LoginPage.js
+msgid "locals.users.askpassword.passwordForgotten"
+msgstr "Ich habe mein Passwort vergessen"
+
+#: /react/containers/AskPasswordForm/AskPasswordForm.js
+msgid "locals.users.askpassword.resetpassword"
+msgstr "Passwort zurücksetzen"
+
+#: /react/containers/AskPasswordForm/AskPasswordForm.js
+msgid "locals.users.askpassword.send"
+msgstr "Senden"
+
+#: /react/containers/RegisterForm/NoPartnerId.js
+msgid "locals.users.askpassword.youridpartnerkey"
+msgstr "Ihr ID-Partnerschlüssel"
+
+#: /react/containers/AskPasswordForm/AskPasswordForm.js
+msgid "locals.users.askpassword.yourlogin"
+msgstr "E-Mail"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.edit.incompletevalues"
+msgstr "Die Daten sind nicht vollständig."
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.login.incompletevalues"
+msgstr "Die Daten sind nicht vollständig."
+
+#: /react/containers/AlertDialogLoginForm/AlertDialogLoginForm.js
+#: /react/containers/LoginForm/LoginForm.js
+msgid "locals.users.login.labelLogin"
+msgstr "E-Mail"
+
+#: /react/containers/AlertDialogLoginForm/AlertDialogLoginForm.js
+#: /react/containers/LoginForm/LoginForm.js
+msgid "locals.users.login.labelPassword"
+msgstr "Passwort"
+
+#: /react/containers/AlertDialogLoginForm/AlertDialogLoginForm.js
+#: /react/containers/LoginForm/LoginForm.js
+msgid "locals.users.login.login"
+msgstr "Anmelden"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.login.wrongcredentials"
+msgstr "Die Zugangsdaten sind ungültig."
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.partner.notfound"
+msgstr "Ungültige Partner-ID"
+
+#: /app/modules/default/views/scripts/users/password.tpl
+msgid "locals.users.password.header"
+msgstr "Passwort zurücksetzen"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.password.mail_success.content"
+msgstr "Sehr geehrte/r [_1|_1],\n\nIhr automatisch erstelltes neues Passwort lautet:\n\n[_2|_2]\n\nBitte ändern Sie dieses Passwort schnellstmöglich auf ein von Ihnen gesetztes Passwort."
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.password.mail_success.subject"
+msgstr "Neues Passwort"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.password.mail_verification.content"
+msgstr "Sehr geehrte/r [_1|_1],\n\nSie haben ein neues Passwort angefordert. Bitte verifizieren Sie Ihre E-Mail-Adresse durch Aufruf des folgenden Links:\n\n<a href=\"[_2|_2]\">[_2|_2]</a>"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.password.mail_verification.subject"
+msgstr "Passwort zurücksetzen"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.password.notfound"
+msgstr "Der Benutzer wurde nicht gefunden."
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.password.success"
+msgstr "Sie erhalten eine E-Mail mit Ihrem neuen Passwort."
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.register.alreadyexisting"
+msgstr "Dieser Benutzer existiert bereits."
+
+#: /react/containers/LoginForm/LoginForm.js
+msgid "locals.users.register.createaccount"
+msgstr "Neuen Account erstellen"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.register.error"
+msgstr "Die Registrierung ist fehlgeschlagen."
+
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.register.ihaveaccount"
+msgstr "Ich habe schon einen Account"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.register.incompletevalues"
+msgstr "Die Daten sind nicht vollständig."
+
+#: ***Obsolete Key***
+#, obsolete
+msgid "locals.users.register.invalidkey"
+msgstr "Es wurde kein korrekter Partner-Key übergeben."
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.register.invalidparent"
+msgstr "Das verbundene Unternehmen ist nicht valide."
+
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.register.labelemail"
+msgstr "E-Mail"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.register.labelemailverification"
+msgstr "E-Mail-Verifizierung"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.register.labelname"
+msgstr "Name"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.register.labelpassword"
+msgstr "Passwort"
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.register.labelpasswordverification"
+msgstr "Bestätigen Sie das Passwort"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.register.mail.content"
+msgstr "Sehr geehrte/r [_1|_1],\n\nVielen Dank für Ihre Anmeldung. Bitte verifizieren Sie Ihre E-Mail-Adresse durch Aufruf des folgenden Links:\n\n<a href=\"[_2|_2]\">[_2|_2]</a>"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.register.mail.subject"
+msgstr "Verifizierung"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.register.register"
+msgstr "Registrieren"
+
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.register.termsofuse"
+msgstr "Durch den Klick auf \"Registrieren\" stimmen Sie unseren <a href=\"https://www.gastronovi.de/datenschutzerklarung\" target=\"_blank\">Datenschutzbestimmungen</a> zu."
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.validation.matches"
+msgstr "Die Felder \"[_1|_1]\" und \"[_2|_2]\" stimmen nicht überein."
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.validation.minlength"
+msgstr "Die Mindestlänge für das Feld \"[_1|_1]\" von [_2 Zeichen|_2 Zeichen] ist nicht erreicht."
+
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.validation.required"
+msgstr "Field \"[_1|_1]\" is required."
+
+#: /react/containers/AccountForm/AccountForm.js
+#: /react/containers/NewLeadForm/NewLeadForm.js
+#: /react/containers/RegisterForm/RegisterForm.js
+msgid "locals.users.validation.validemail"
+msgstr "Das Feld \"[_1|_1]\" beinhaltet keine korrekte E-Mail-Adresse."
+
+#: /app/modules/default/views/scripts/users/verify.tpl
+msgid "locals.users.verification.header"
+msgstr "Verifizierung"
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.verify.notfound"
+msgstr "Die eingegebenen Daten sind ungültig oder der Benutzer ist bereits verifiziert."
+
+#: /app/modules/default/controllers/UsersController.php
+msgid "locals.users.verify.success"
+msgstr "Der Benutzer wurde erfolgreich verifiziert. Sie können sind nun anmelden: <a href=\"[_1|_1]\">Anmeldung</a>."
+
+#: /app/templates/email/Abstract/global/standard/footer.tpl
+msgid "mail.footer.imprint"
+msgstr "Impressum"
+
+#: /app/templates/email/Abstract/global/standard/footer.tpl
+msgid "mail.footer.login"
+msgstr "Anmelden"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.File.keywords.header"
+msgstr "Schlüsselwörter"
+
+msgid "models.File.original.header"
+msgstr "Original"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.File.public.header"
+msgstr "Öffentlich"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.File.size.header"
+msgstr "Größe"
+
+msgid "models.File.status.header"
+msgstr "Status"
+
+msgid "models.File.type.header"
+msgstr "Art"
+
+#: Database table Group
+#: ***Global Eeecore Key***
+#, core
+msgid "models.Group._name.header"
+msgstr "Gruppe"
+
+#: Database table Group
+msgid "models.Group._name.plural"
+msgstr "Gruppen"
+
+#: Database table Group
+#: ***Global Eeecore Key***
+#, core
+msgid "models.Group._name.tooltip"
+msgstr "Dem Benutzer eine Richtlinie zuordnen"
+
+msgid "models.Group.name.header"
+msgstr "Name"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.Page._name.header"
+msgstr "Seite"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.Page._name.plural"
+msgstr "Seiten"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.Page._name.tooltip"
+msgstr "Seitenbaum und Navigation der Internetseite"
+
+#: Database table User
+msgid "models.User._name.header"
+msgstr "Benutzer"
+
+#: Database table User
+msgid "models.User._name.plural"
+msgstr "Benutzer"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.active.header"
+msgstr "Aktiv"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.active.tooltip"
+msgstr "Ist das feld nicht gesetzt, ist der Benutzer deaktiviert bzw. gesperrt"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.auth.header"
+msgstr "Verifizierungsschlüssel"
+
+msgid "models.User.auth.tooltip"
+msgstr "Wird bei der Registrierung an den Benutzer per Email versendet."
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.email.header"
+msgstr "E-Mail"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.email.tooltip"
+msgstr "Ihre E-Mail Adresse"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.file_id.header"
+msgstr "Foto"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.file_id.tooltip"
+msgstr "Ihr persönliches Foto für die Darstellung des Benutzerprofils"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.firstname.header"
+msgstr "Vorname"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.firstname.tooltip"
+msgstr "Ihr Vorname"
+
+msgid "models.User.group_id.header"
+msgstr "Gruppe"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.lastname.header"
+msgstr "Nachname"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.lastname.tooltip"
+msgstr "Ihr Nachname"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.password.header"
+msgstr "Passwort"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.password.tooltip"
+msgstr "Ihr Passwort"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.username.header"
+msgstr "Benutzername"
+
+#: ***Global Eeecore Key***
+#, core
+msgid "models.User.username.tooltip"
+msgstr "Ihr Benutzername"
+
+msgid "models.User.verified.header"
+msgstr "Verifiziert"
+
